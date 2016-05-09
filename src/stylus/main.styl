@@ -1,0 +1,25 @@
+section.block.fullwidth {
+	//max-width none
+	//margin 0
+	.block-content {
+		margin-top 0
+		margin-bottom 0
+		.map {
+			margin-bottom 0
+		}
+	}
+}
+
+.map {
+	height 50vh
+	max-height 50vh
+	margin-left -($articleMarginSmall)
+	margin-right -($articleMarginSmall)
+}
++isAbove($laptop) {
+	.map {
+		height 50vw
+		margin-left -($articleMarginLarge)
+		margin-right -($articleMarginLarge)
+	}
+}
