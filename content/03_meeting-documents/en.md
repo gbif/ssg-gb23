@@ -13,8 +13,10 @@ Official meeting documents for GB23 will be available here by 23 September 2016.
 > Documents are available only to official delegates and invited observers. 
 
 + GB23 final and approved documents
+
 ++ [Item 1](http://#)
 ++ [Item 2](http://#)
+
 + GB23 background documents
 + GB23 presentations
 

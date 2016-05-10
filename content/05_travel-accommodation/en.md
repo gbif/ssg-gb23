@@ -4,7 +4,6 @@ description: Learn more about the event along with other tips and pointers for t
 image: /images/turtle.jpg
 imageTitle: Descr and credit goes here
 imageLink: link to owner
-category: Category name
 ---
 
 # Travel and accommodation
@@ -18,7 +17,7 @@ category: Category name
 
 ```styledYaml
 images:
-- title: image title and credit
+- title: Complexo Brasil 21
   url: /images/location.jpg
   link: reference-location
 ```
@@ -28,7 +27,7 @@ The 23rd GBIF Governing Board meeting (GB23) and associated events will take pla
 [**Complexo Brasil 21**](http://convencoesbrasil21.com.br)
 Centro de Eventos e Convenções Brasil 21
 SHS Quadra 06 – Complexo Brasil 21
-Brasilia 70316-000
+Brasília 70316-000
 Brazil
 
 The convention center is located approx. 16 km from the Brasília International Airport. 
@@ -39,6 +38,7 @@ templates:
 - path: map_en.html
   geojsonUrl: "//api.gbif.org/v1/installation/location/IPT_INSTALLATION"
 ```
+----------
 
 ## Hotels
 
@@ -72,6 +72,8 @@ Please check with your local Brazilian representation if you need a visa to ente
 ### Insurance
 
 Attendees are advised to make sure what insurance is requested for travel to Brazil. 
+
+----------
 
 ## General travel information
 
