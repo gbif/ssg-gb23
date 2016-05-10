@@ -8,9 +8,9 @@ imageLink: Link to owner
 
 # Financial support
 
-The GBIF Secretariat offers select delegates the possibility of applying for partial funding to attend the Governing Board meeting in Brasilia on 25-26 October 2016.
-
 __Deadline for applications: 29 July 2016__
+
+The GBIF Secretariat offers select delegates the possibility of applying for partial funding to attend the Governing Board meeting in Brasilia on 25-26 October 2016.
 
 ## Guidelines
 
