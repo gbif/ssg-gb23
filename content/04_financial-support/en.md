@@ -1,100 +1,47 @@
 ---
-title: Home
-description: Welcome the 23rd meeting of the GBIF Governing Board 
+title: Financial support
+description: The GBIF Secretariat offers the possibility to apply for partial funding to attend the Governing Board meeting.
 image: /images/worm.jpg
 imageTitle: Name of image here.
 imageLink: Link to owner
 ---
 
-# Programme
+# Financial support
 
-Pull summary / highlights
-Printable PDF programme
-		
+The GBIF Secretariat offers select delegates the possibility of applying for partial funding to attend the Governing Board meeting in Brasilia on 25-26 October 2016.
 
-One page overview of GB23 events
-Download the one-page overview (PDF) by clicking here. 
-For detailed description of each event click here or on the relevant event in the table above.  
+_Deadline for applications: 29 July 2016_
 
-Description of events
-See also the programme overview for a quick one-page overview of the events.
-Please notice that all attendance is subject to prior registration. 
+## Guidelines
 
-Monday, 24 October 2016
-Nodes Steering Group meeting 
-Time: 09:00-12:30
-Venue: To be confirmed
-Meeting of the GBIF Nodes Steering Group. The meeting is open to members of the group only. 
+The GBIF Executive Committee has established that financial support is limited to Voting Participants from developing countries in one of the following three groups: 
 
-Budget Committee meeting
-Time: 09:00-12:30
-Venue: To be confirmed
-Meeting of the GBIF Budget Committee. The meeting is open to members of the committee only. 
+1. A country that has paid its membership contribution in full for the current year (2016).
+2. A country that has paid its membership contribution in full for the previous year (2015).
+3. A country that has paid at least 50% of the total expected contribution for the period that includes the current year and the two previous years (2014-2016).
 
-Science Committee meeting
-Time: 09:00-12:30
-Venue: To be confirmed
-Meeting of the GBIF Science Committee. The meeting is open to members of the committee only. 
+## Procedures
 
-Executive Committee meeting 1
-Time: 13:30-17:00
-Venue: To be confirmed
-Meeting of the GBIF Executive Committee. The meeting is open to members of the committee only. 
+The GBIF Secretariat offers some financial assistance to support delegations from GBIF Voting Participants in developing countries attending the GB23 meeting in Brasília. Support may include partial funding of flight tickets and accommodation. 
 
-Welcome dinner
-Time: to be confirmed
-Venue: To be confirmed
++ Partial financial support is only available for GBIF developing country Voting Participants.
++ Only one delegate per delegation is eligible to receive support.
 
+Delegations must submit an [application form available](http://#) that includes the following information:
 
-Tuesday, 25 October 2016
++ A draft economy class flight schedule from country of origin to Brazil and indication of the flight costs
++ The number of days requested for accommodation support (up to a maximum of four (4) days)
++ A confirmation that the delegate will be able to cover all other costs (visa, health insurance, per diem, etc.) 
 
-Governing Board meeting Day 1
-Time: 09:00-17:00
-Venue: To be confirmed
-The first day of the official GBIF Governing Board meeting. For official Governing Board delegates and invited observers. 
+Support is primarily intended for Heads of Delegation. However, they may reassign the support to one additional delegate. In such cases, a written confirmation of this reassignment by the Head of Delegation must accompany the application form.
 
+If the application is approved, the Secretariat will provide a lump-sum subsidy for accommodation per day for the number of days requested by the delegate. 
 
-Wednesday 26 October
+Delegations are asked to note that the Secretariat does not offer the support up front, but will be provided as per reimbursement after the meetings.
 
-The GBIF Public Symposium 2016
-Time: 09:00-12:30
-Venue: To be confirmed
+Secretariat staff will inform applicants whether they can provide support beginning in early August. 
 
-The 2016 Public Symposium will present xxxxxxx. Those unable to attend the symposium in person will have access to all presentations soon after the event. 
-The symposium is open to the public and press but pre-registration is necessary.  
-
-
-Governing Board meeting Day 2
-Time: 13:30-17:00
-Venue: To be confirmed
-
-The second day of the official GBIF Governing Board meeting. For official Governing Board delegates and invited observers. 
-
-Executive Committee meeting 2
-Time: 17:00-19:00
-Venue: To be confirmed
-
-Post-GB meeting of the GBIF Executive Committee. The meeting is open to members of the committee only. 
-
-Hosted dinner
-Time: to be confirmed
-Venue: To be confirmed
-
-
-Thursday, 27 October 2016
-
-SiBBr Symposium
-Time: 09:00-17:00
-Venue: To be confirmed
-
-
-Friday, 28 October 2016
-
-Excursion
-Time: 09:00-19:00
-Venue: To be confirmed
-
-The local organizers kindly offer the possibility to visit [more info to be provided by local organizer]
+Applications should be sent to the Secretariat at [GB23@gbif.org](mailto:GB23@gbif.org). Do not hesitate to contact us if you need further clarification. 
 
 
 ```styledYaml
