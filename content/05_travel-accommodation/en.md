@@ -1,25 +1,20 @@
 ---
-title: Your stay
-description: Description of something
+title: Travel and acccomodation
+description: Learn more about the event along with other tips and pointers for those travelling to Brasília.
 image: /images/turtle.jpg
 imageTitle: Descr and credit goes here
 imageLink: link to owner
 category: Category name
 ---
 
-# Your stay
+# Travel and accommodation
 
-_You can write your own articles in any program. It is just a normal text file._
+<!-- toc -->
+<!-- tocstop -->
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+-----------------------
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-
-## Voluptatem accusantium doloremque
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### Consectetur adipiscing elit
+## Venue
 
 ```styledYaml
 images:
@@ -28,31 +23,15 @@ images:
   link: reference-location
 ```
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+The 23rd GBIF Governing Board meeting (GB23) and associated events will take place at:
 
-#### Iste natus error
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+[**Complexo Brasil 21**](http://convencoesbrasil21.com.br)
+Centro de Eventos e Convenções Brasil 21
+SHS Quadra 06 – Complexo Brasil 21
+Brasilia 70316-000
+Brazil
 
-```styledYaml
-templates:
-- path: pdfpreview_en.html
-  pdf: "//api.gbif.org/v1/installation/location/IPT_INSTALLATION"
-  img: "/images/program.jpg"
-  description: Download pdf
-```
-
-##### Level 5 headline
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-* Lorem ipsum
-	* consectetur 
-	* adipiscing
-* exercitation 
-* veniam
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-
+The convention center is located approx. 16 km from the Brasília International Airport. 
 
 ----------
 ```styledYaml
@@ -60,3 +39,56 @@ templates:
 - path: map_en.html
   geojsonUrl: "//api.gbif.org/v1/installation/location/IPT_INSTALLATION"
 ```
+
+## Hotels
+
+List of accommodations to follow
+
+## Maps
+
+[Here will be links to maps with location of venue and hotels. To be prepared in collaboration with local organizer. ]
+
+## Getting to Brasília
+
+Brasília–Presidente Juscelino Kubitschek International Airport is located 11 km outside the city centre. 
+
+A number of airlines serve travellers through Brasília International, including Air France, American Airlines, TAM Airlines, TAP Portugal. 
+
+### Map of airport
+
+Lorem ipsum
+
+## Local transportation
+
+Lorem ipsum
+
+## Visa and insurance
+
+Lorem ipsum
+
+### Visa
+Please check with your local Brazilian representation if you need a visa to enter Brazil. 
+
+### Insurance
+
+Attendees are advised to make sure what insurance is requested for travel to Brazil. 
+
+## General travel information
+
+Information useful for attendees, covering topics such as:
+
++ Currency exchange and banking procedures
++ Credit cards and ATMs
++ Electricity
++ Emergencies
++ Health (risk areas and recommendation for inoculations)
++ Language
++ Opening hours
++ Security
++ Smoking
++ Telecommunication and internet
++ Weather
+
+## Tourist information
+
+Local tourist information

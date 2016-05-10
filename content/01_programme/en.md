@@ -12,6 +12,14 @@ imageLink: Link to owner
 
 [Download a printable one-page overview of GB23](http://#)
 
+```styledYaml
+templates:
+- path: pdfpreview_en.html
+  pdf: "//api.gbif.org/v1/installation/location/IPT_INSTALLATION"
+  img: "/images/program.jpg"
+  description: Download pdf
+```
+
 ## Summary of events
 
 Note that all attendance is subject to prior registration. 

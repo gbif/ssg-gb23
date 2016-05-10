@@ -6,15 +6,17 @@ imageTitle: Name of image here.
 imageLink: Link to owner
 ---
 
-# 23rd GBIF governing board meeting 
+# Welcome to GB23 
 
-_This years governing board meeting takes place in Brasilia, Brazil on 25-26 October 2016_
+_The 23rd meeting of the GBIF Governing Board takes place in Brasília, Brazil on 25-26 October 2016_
 
-Brazil is pleased to host the 23rd meeting (GB23) of the Governing Board of the Global Biodiversity Information Facility. 
+Brazil and its national GBIF Participant, [SiBBr](http://www.sibbr.gov.br), are pleased to host the 2016 meeting. 
 
-The official Governing Board meeting will take place in Brasilia, Brazil on 25-26 October 2016. In addition to the official Governing Board meeting, the GBIF committee meetings will take place on 24 October. Also, the host kindly invites everybody to participate in a SiBBr Symposium on 27. And finally, it will be possible to sign up for an excursion on 28 October.
+The official Governing Board meetings will take place on 25 and 26 October 2016. 
 
-> Some highlighted information. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Governance committee meetings will take place on 24 October, and SiBBr invites attendees to participate in a SiBBr Symposium on 27 October. 
+
+Attendees may also sign up to conclude their visit on an excursion organized by SiBBr on 28 October.
 
 
 ```styledYaml
