@@ -1,7 +1,7 @@
 # Language translations for shared variables across pages. I.e. navigation buttons, skip links etc.
 
 siteName:
-  en: GBIF
+  en: GB23
 
 NavSearch:
   en: Search...
@@ -19,7 +19,7 @@ languageSelector_title:
   en: Select language
 
 translationNotAvailable:
-  en: This text is not available in english
+  en: This text is not available in English
 
 
 # The format is
