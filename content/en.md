@@ -8,7 +8,9 @@ imageLink: Link to owner
 
 # Welcome to GB23 
 
-_The 23rd meeting of the GBIF Governing Board<br />Brasília, Brazil<br />25-26 October 2016_
+_The 23rd meeting of the GBIF Governing Board_
+_Brasília, Brazil_
+_25-26 October 2016_
 
 Brazil and its national GBIF Participant, [SiBBr](http://www.sibbr.gov.br), are pleased to host the 2016 meeting. 
 

@@ -21,7 +21,7 @@
     "tests"
   ],
   "dependencies": {
-    "gbif-ssg": "git://github.com/gbif/ssg.git#cbf8535bc7a63447219a5875a3c6d96e2b325f5c",
+    "gbif-ssg": "git://github.com/gbif/ssg.git#d7bcf37b35f4515bf8874f910c087766b5161ae9",
     "mapbox.js": "~2.4.0"
   }
 }
