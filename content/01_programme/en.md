@@ -1,8 +1,8 @@
 ---
 title: Programme
 description: Programme the 23rd meeting of the GBIF Governing Board 
-image: /images/worm.jpg
-imageTitle: Name of image here.
+image: /images/parrot.jpg
+imageTitle: Arara em voo By José Sabino
 imageLink: Link to owner
 ---
 
