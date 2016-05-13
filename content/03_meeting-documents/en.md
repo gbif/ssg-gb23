@@ -1,8 +1,8 @@
 ---
 title: Meeting documents
 description: Official meeting documents for GB23. 
-image: /images/worm.jpg
-imageTitle: Name of image here.
+image: /images/anavilhanasl.jpg
+imageTitle: Anavilhanasl By José Sabino
 imageLink: Link to owner
 ---
 
