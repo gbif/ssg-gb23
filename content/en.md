@@ -12,7 +12,7 @@ _The 23rd meeting of the GBIF Governing Board<br />Brasília, Brazil<br />25-26 
 
 Brazil and its national GBIF Participant, [SiBBr](http://www.sibbr.gov.br), are pleased to host the 2016 meeting. 
 
-The official Governing Board meetings will take place on 25 and 26 October 2016. 
+The official Governing Board meetings will take place on 25 and 26 October 2016 in Brazil. 
 
 Governance committee meetings will take place on 24 October, and SiBBr invites attendees to participate in a SiBBr Symposium on 27 October. 
 
