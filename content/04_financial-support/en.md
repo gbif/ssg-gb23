@@ -1,8 +1,8 @@
 ---
 title: Financial support
 description: The GBIF Secretariat offers the possibility to apply for partial funding to attend the Governing Board meeting.
-image: /images/worm.jpg
-imageTitle: Name of image here.
+image: /images/butterfly2.jpg
+imageTitle: Myscelia orsis By José Sabino
 imageLink: Link to owner
 ---
 
