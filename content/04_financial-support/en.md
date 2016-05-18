@@ -1,8 +1,8 @@
 ---
 title: Financial support
 description: The GBIF Secretariat offers the possibility to apply for partial funding to attend the Governing Board meeting.
-image: /images/butterfly2.jpg
-imageTitle: Myscelia orsis By José Sabino
+image: /images/flor.jpg
+imageTitle: Campo de altitude em flor MG By José Sabino
 imageLink: Link to owner
 ---
 
@@ -43,14 +43,3 @@ Secretariat staff will inform applicants whether they can provide support beginn
 
 Applications should be sent to the Secretariat at [GB23@gbif.org](mailto:GB23@gbif.org). Do not hesitate to contact us if you need further clarification. 
 
-
-```styledYaml
-templates:
-- path: contact.html
-  contacts:
-  - name: Anne Mette Nielsen
-    image: /images/amn.jpg
-    mail: anmnielsen@gbif.org
-    tel: +45 35 32 14 81
-    info: Head of Administration
-```
