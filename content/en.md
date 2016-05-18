@@ -21,13 +21,4 @@ Governance committee meetings will take place on 24 October, and SiBBr invites a
 Attendees may also sign up to conclude their visit on an excursion organized by SiBBr on 28 October.
 
 
-```styledYaml
-templates:
-- path: contact.html
-  contacts:
-  - name: Anne Mette Nielsen
-    image: /images/amn.jpg
-    mail: anmnielsen@gbif.org
-    tel: +45 35 32 14 81
-    info: Head of Administration
-```
+
