@@ -77,6 +77,12 @@ Attendees are advised to make sure what insurance is requested for travel to Bra
 
 ----------
 
+## Health
+
+Add some information about the zika virus situation.
+
+----------
+
 ## General travel information
 
 Information useful for attendees, covering topics such as:
