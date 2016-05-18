@@ -50,11 +50,11 @@ List of accommodations to follow
 
 ## Getting to Brasília
 
-Brasília–Presidente Juscelino Kubitschek International Airport is located 11 km outside the city centre. 
+[Brasília–Presidente Juscelino Kubitschek International Airport](http://www.bsb.aero/en/) is located 11 km outside the city centre. 
 
 A number of airlines serve travellers through Brasília International, including Air France, American Airlines, TAM Airlines, TAP Portugal. 
 
-### Map of airport
+**[Map of airport]**(http://www.bsb.aero/en/o-aeroporto/google-maps-indoor/)
 
 Lorem ipsum
 
@@ -68,6 +68,8 @@ Lorem ipsum
 
 ### Visa
 Please check with your local Brazilian representation if you need a visa to enter Brazil. 
+
+The Brazilian Ministry of External Relations offers this information regarding [Entrance Visas in Brazil](http://sistemas.mre.gov.br/kitweb/datafiles/CgWashington/en-us/file/Entrance%20Visas%20in%20Brazil.pdf). 
 
 ### Insurance
 
