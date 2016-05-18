@@ -54,7 +54,7 @@ List of accommodations to follow
 
 A number of airlines serve travellers through Brasília International, including Air France, American Airlines, TAM Airlines, TAP Portugal. 
 
-**[Map of airport]**(http://www.bsb.aero/en/o-aeroporto/google-maps-indoor/)
+### Map of airport
 
 Lorem ipsum
 
