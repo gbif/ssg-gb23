@@ -189,23 +189,32 @@ If you are not flying directly to Brasilia you will probably book a flight to S�
 + GRU – São Paulo Guarulhos International Airport: www.gru.com.br/en-us/
 + GIG – Rio Galeão International Airport: www.riogaleao.com/en/
 
+## Getting around in Brasília
 
-### Map of airport
+Brasília International Airport Juscelino Kubitschek is situated 11 km (7 mi) from the city center.
 
-Lorem ipsum
+### Taxi
+There are taxis in front of the airport exits. Show or tell the driver the address of your hotel and they will know where to take you. In normal traffic, from BSB, the drive downtown should take around 20-30 minutes. Est. cost – 40 – 50 BRL. 
 
-## Local transportation
+### Uber
+Uber is a great and dependable way to get around in Brasilia. If you have the Uber app on your cell phone, you can request a driver and they will arrive to you in just a few minutes. At the airport, the pick-up area for Uber passengers are located on the second floor. The service is usually better, slightly cheaper and more comfortable than a regular taxi. Est. cost - 25 – 45 BRL from BSB. 
 
-Lorem ipsum
+### Bus
+It is also possible to take the Airport Bus Service to your hotel at Setor Hoteleiro Sul (SHS) or Setor Hoteleiro Norte (SHN). The buses departure every 30 minutes, from 6:30 am to 12:00pm. The service runs every day and the trip will take around 1 hour. The cost is 10 BRL.
 
-## Visa and insurance
+## Travel requirements for entering Brazil
 
-Lorem ipsum
+GB23 participants are responsible for preparing their own travel documentation requirements for entering Brazil (this includes visas, vaccinations, etc). Please make sure to verify what the requirements are with your nearest Brazilian Embassy or Brazilian Consulate.   
+
+Locate your nearest Brazilian Embassy or Consulate: [http://embassy.goabroad.com/embassies-of/brazil](http://embassy.goabroad.com/embassies-of/brazil)
 
 ### Visa
-Please check with your local Brazilian representation if you need a visa to enter Brazil. 
 
-The Brazilian Ministry of External Relations offers this information regarding [Entrance Visas in Brazil](http://sistemas.mre.gov.br/kitweb/datafiles/CgWashington/en-us/file/Entrance%20Visas%20in%20Brazil.pdf). 
+Brazil maintains a fully reciprocal visa policy. Holders of passports for around 90 countries, including the Schengen Area, do not require a visa to visit Brazil for up to 90 days for tourism or business purposes (unless otherwise noted). All other visitors to Brazil must obtain a visa from one of the Brazilian diplomatic missions.
+
+Please be aware that Brazilian visa requirements are very stringent in many countries, and visas can take several weeks to obtain. If you need a visa, we recommend that you apply for your Brazilian visa as soon as possible. There is no option for visa upon arrival in Brazil. Visas MUST be arranged before travelling.
+
+Find here the official rules for each country regarding the Brazilian visa: [http://sistemas.mre.gov.br/kitweb/datafiles/CgWashington/en-us/file/Entrance%20Visas%20in%20Brazil.pdf](http://sistemas.mre.gov.br/kitweb/datafiles/CgWashington/en-us/file/Entrance%20Visas%20in%20Brazil.pdf). 
 
 ### Insurance
 
@@ -215,25 +224,60 @@ Attendees are advised to make sure what insurance is requested for travel to Bra
 
 ## Health
 
-Add some information about the zika virus situation.
+**A note on the Zika virus situation**
+
+The [Center for Disease Control and Prevention (CDC)](http://wwwnc.cdc.gov/travel/notices/alert/2016-summer-olympics-rio) of  the United States recently issued a travel warning for women who are pregnant (in any trimester), advising them to avoid risk and consider postponing travel to Brazil, as the virus has been linked to cases of microcephaly in newborns.
+
+You should not worry about this either, but it is recommended that you pack insect repellant and use it while travelling in Brazil.
 
 ----------
 
 ## General travel information
 
-Information useful for attendees, covering topics such as:
+### Electricity
 
-+ Currency exchange and banking procedures
-+ Credit cards and ATMs
-+ Electricity
-+ Emergencies
-+ Health (risk areas and recommendation for inoculations)
-+ Language
-+ Opening hours
-+ Security
-+ Smoking
-+ Telecommunication and internet
-+ Weather
+Brasilia standard voltage is 220 V. The standard frequency is 60 Hz.
++	Converters and adaptors for electronics: The power sockets that are used are type N, although some venues also take US plugs.
+
+INSERT PLUGS IMAGE HERE
+
+### Language
+
+Portuguese is the official language of Brazil. Many Brazilians in the larger cities - especially those you encounter working at airports, hotels, better restaurants, tour companies, travel agencies, etc - speak at least some English. Both English and Spanish are taught in many Brazilian schools.
+
+### Money procedures
+
+The unit of currency in Brazil is the real and the plural is reais. The real further divides into 100 centavos. The symbol for real is "R$" and the currency code is BRL. Other currencies, such as USD, are barely accepted in Brazil. So you need to have Reais in your wallet!
+
++	Change Money: You can exchange money in banks or in currency exchanges located at the Brasilia Airport. Hotels and travel agencies may also exchange money for you; 
++	Credit and Debit Cards: Visa and MasterCard are widely accepted in Brazil. American Express and Diners Club, are often accepted as well;
++	ATMs:  ATM’s are located all over the country, including Brasilia Airport. However, there may be limits to the daily amount that you can withdraw from an ATM, specially from 10:00pm to 6:00 am.
+
+### Personal security
+
+According to Brazilian security authorities, Brasilia’s “Plano Piloto” (central area of town) is considered as a safe area. Nevertheless precautions should be taken and it is advisable to practice the same caution you would practice when visiting a major metropolitan destination in any country. Consider the caution you take at night in any major city and use the same caution when in Brasília:
++	Expensive cameras and jewelry should be worn discreetly;
++	Purses and wallets can attract attention:
++	Only carry small amounts of cash and a copy of your passport. Carry only the credit cards you are going to need, not all you have. 
++	When using ATMs do it at commercial hours and prefer the ATMs located inside banks, shopping malls or supermarkets.
+
+### Telecommunication and internet
+
+Brazil has an extensive fixed and mobile phone systems which will allow you to call anywhere in the world. All hotels have a telephone in the room where you can make local, intercity, interstate or international calls. If you need a local mobile SIM Card it is possible to get one in one of the majors mobile company shops in Brazil: Claro, Tim or Vivo.
+ 
+Internet services are available everywhere in Brazil.  Most hotels include high speed Internet access in the room.  Additionally, most cafes, restaurants and shopping malls offer free wi-fi services. 
+
+### Tips
+
+In Brazil, tips are usually added in 10% over bills involving servers such as bars, restaurants, etc. Although it is automatically placed in the final bill, 10% charge for services are not mandatory. 
+
+In hotels, you should tip the bell boy on an average of 5,00 BRL per bag. For others services, such as cab drivers and barber shops you don’t need to tip.
+
+### Weather
+
+Brasilia has a subtropical climate. There is a dry season (April to September) and a wet season due to increased humidity present October through March. The average temperature is 20.5 ºC (68.9 F). 
+
+----------
 
 ## Tourist information
 
