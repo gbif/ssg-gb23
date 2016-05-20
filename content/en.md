@@ -14,7 +14,7 @@ _24-28 October 2016_
 
 The Brazilian Biodiversity Information System [(SiBBr)](http://www.sibbr.gov.br), on behalf of the Ministry of Science, Technology and Innovation of Brazil, is pleased to host the 23rd meeting (GB23) of the GBIF Governing Board in Brasília. 
 
-The official Governing Board meeting will take place on 25 and 26 October 2016. All the participants are invited for a welcome dinner offered by the Brazilian Delegation in the evening of 24 October.
+The official Governing Board meeting will take place on 25 and 26 October 2016. All the participants are invited to a welcome dinner offered by the Brazilian Delegation in the evening of 24 October.
 
 Governance committee meetings will take place on 24 October. Also, the host kindly invites everybody to participate in the SiBBr Symposium on 27 October. 
 
