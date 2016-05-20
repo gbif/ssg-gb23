@@ -173,9 +173,11 @@ Double - 290,00 BRL + 10%
 
 
 
-## Maps
+## Map
 
 Click <a href="https://www.google.com/maps/d/viewer?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" target="_blank">here</a> or on the image below to go to a map showing location of venues, hotels airport and other locations of interest. 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" width="640" height="480"></iframe>
 
 ## Getting to Brasília
 
