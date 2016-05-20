@@ -181,9 +181,14 @@ Click <a href="https://www.google.com/maps/d/viewer?mid=1S1KiJSTX8jWvbj32T7CvICP
 
 ## Getting to Brasília
 
-[Brasília–Presidente Juscelino Kubitschek International Airport](http://www.bsb.aero/en/) is located 11 km outside the city centre. 
+[Brasília International Airport Juscelino Kubitschek (BSB)](http://www.bsb.aero/en/) is a major hub for travel within Brazil, so there are numerous flights that go through the city's airport every day. On the other hand, despite being a major capital, there are just few international non-stop flights directly to Brasilia, from: Buenos Aires (Aerolineas Argentinas), Lisbon (TAP Portugal), Miami (LATAM and American Airlines), Orlando (TAM), Panama City (COPA) and Paris (Air France).
 
-A number of airlines serve travellers through Brasília International, including Air France, American Airlines, TAM Airlines, TAP Portugal. 
+If you are not flying directly to Brasilia you will probably book a flight to São Paulo, Guarulhos Airport  (GRU) or Rio de Janeiro, Galeão Airport (GIG) - those are the main international entrances to Brazil. In both cases, you will have to go through Brazilian customs and immigration on the arriving airport and re-board in a domestic flight to Brasilia. While booking your flight to São Paulo or Rio de Janeiro, please make sure that your domestic flight to Brasilia will departure from the same airport. Both cities have also have a domestic airport and getting there from the internationals ones would take an unnecessary time.
+
++ BSB - Brasília International Airport Juscelino Kubitschek: www.bsb.aero/en/
++ GRU – São Paulo Guarulhos International Airport: www.gru.com.br/en-us/
++ GIG – Rio Galeão International Airport: www.riogaleao.com/en/
+
 
 ### Map of airport
 
