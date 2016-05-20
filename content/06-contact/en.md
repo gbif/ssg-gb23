@@ -8,16 +8,19 @@ imageLink: Link to owner
 
 # Contact the organizers
 
-**Andrea Ferreira Portela Nunes**<br />
-[Ministério da Ciência, Tecnologia e Inovação](http://www.mcti.gov.br)
-Esplanada dos Ministérios Bloco E, Sala 232
-Brasília 70067-900
-Brazil
-[aportela@mct.gov.br](mailto:aportela@mct.gov.br)[SiBBr website](http://www.sibbr.gov.br)
-
 **GBIF Secretariat**
 Universitetsparken 15
 DK-2100 Copenhagen
 Denmark
 Phone: +45 35 32 14 70
 [GB23@gbif.org](mailto:GB23@gbif.org)
+
+**SiBBr - Brazilian Biodiversity Information System**<br />
+Ed. Corporate Financial Center
+SCN Quadra 2 Bloco A 5º andar Sala 558
+Brasília – Distrito Federal – 70712-900
+Brazil
+Phone: +55 61 3329 6003
+[sibbr.gb23@sibbr.gov.br](mailto:sibbr.gb23@sibbr.gov.br)
+[SiBBr website](http://www.sibbr.gov.br)
+
