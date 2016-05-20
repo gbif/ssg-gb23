@@ -167,9 +167,14 @@ Double - 290,00 BRL + 10%
 
 ## Map
 
-Click <a href="https://www.google.com/maps/d/viewer?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" target="_blank">here</a> or on the image below to go to a map showing location of venues, hotels airport and other locations of interest. 
+Click <a href="https://www.google.com/maps/d/viewer?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" target="_blank">here</a> to go to a map showing location of venues, hotels, airport and other locations of interest. 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" width="640" height="640"></iframe>
+```styledYaml
+images:
+- title: Map
+  url: /images/googlemap.jpg
+  link: reference-location
+```
 
 -------------
 
@@ -237,7 +242,12 @@ You should not worry about this either, but it is recommended that you pack inse
 Brasilia standard voltage is 220 V. The standard frequency is 60 Hz.
 +	Converters and adaptors for electronics: The power sockets that are used are type N, although some venues also take US plugs.
 
-INSERT PLUGS IMAGE HERE
+```styledYaml
+images:
+- title: Plugs
+  url: /images/plugs.jpg
+  link: reference-location
+```
 
 ### Language
 
@@ -296,7 +306,7 @@ The Cerrado is home to 935 species of birds and nearly 300 mammals, including su
 The climate is dry and the trees are twisted. During the day, it’s hot, but at night, the cold weather is pleasant. The Cerrado is without doubt one of the most beautiful Brazilian biomes. For those who like to be in contact with nature, the Chapada dos Veadeiros and the city of Pirenópolis are two must-see refuges near by Brasília.
 
 ### Useful links
-Visit Brasil: [http://www.visitbrasil.com/en/](http://www.visitbrasil.com/en/)
-Brasilia Convention&Visitors Bureau: [http://brasiliaconvention.com.br/sitenovo/?lang=en](http://brasiliaconvention.com.br/sitenovo/?lang=en)
-Lonely Planet Guide: [www.lonelyplanet.com/brazil/brasilia-goias](http://www.lonelyplanet.com/brazil/brasilia-goias)
++ Visit Brasil: [http://www.visitbrasil.com/en/](http://www.visitbrasil.com/en/)
++ Brasilia Convention&Visitors Bureau: [http://brasiliaconvention.com.br/sitenovo/?lang=en](http://brasiliaconvention.com.br/sitenovo/?lang=en)
++ Lonely Planet Guide: [www.lonelyplanet.com/brazil/brasilia-goias](http://www.lonelyplanet.com/brazil/brasilia-goias)
 
