@@ -43,15 +43,6 @@ The following events will take place at the Brasil 21:
 * Governing Board meeting (25-26 October)
 * GBIF Symposium (26 October)
 
-
-----------
-```styledYaml
-templates:
-- path: map_en.html
-  geojsonUrl: "//api.gbif.org/v1/installation/location/IPT_INSTALLATION"
-```
-----------
-
 ### Other venues
 
 **Welcome dinner** (24 October) - venue to be confirmed
@@ -63,6 +54,7 @@ Blocos A, B, C e D
 Lago Sul - Brasília
 Brazil
 
+---------- 
 
 ## Hotels
 
@@ -171,13 +163,15 @@ Fares
 Single - 230,00 BRL + 10%
 Double - 290,00 BRL + 10%
 
-
+----------
 
 ## Map
 
 Click <a href="https://www.google.com/maps/d/viewer?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" target="_blank">here</a> or on the image below to go to a map showing location of venues, hotels airport and other locations of interest. 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" width="640" height="640"></iframe>
+
+-------------
 
 ## Getting to Brasília
 
@@ -188,6 +182,8 @@ If you are not flying directly to Brasilia you will probably book a flight to S�
 + BSB - Brasília International Airport Juscelino Kubitschek: www.bsb.aero/en/
 + GRU – São Paulo Guarulhos International Airport: www.gru.com.br/en-us/
 + GIG – Rio Galeão International Airport: www.riogaleao.com/en/
+
+-------------
 
 ## Getting around in Brasília
 
@@ -201,6 +197,8 @@ Uber is a great and dependable way to get around in Brasilia. If you have the Ub
 
 ### Bus
 It is also possible to take the Airport Bus Service to your hotel at Setor Hoteleiro Sul (SHS) or Setor Hoteleiro Norte (SHN). The buses departure every 30 minutes, from 6:30 am to 12:00pm. The service runs every day and the trip will take around 1 hour. The cost is 10 BRL.
+
+-------------
 
 ## Travel requirements for entering Brazil
 
@@ -281,4 +279,24 @@ Brasilia has a subtropical climate. There is a dry season (April to September) a
 
 ## Tourist information
 
-Local tourist information
+### The City
+
+Open in 1960, Brasilia and the Federal District were created to house the new capital of Brazil replacing Rio de Janeiro.  Under the visionary leadership of President Juscelino Kubitschek, architect Oscar Niemeyer, urban planner Lucio Costa and landscape architect Burle Marx, Brasilia was conceived as a workable, utopic answer to modern, urban chaos.  .
+
+The purpose-built city is lauded by many for its futuristic architecture and avant-garde design and it is the  the first in the world constructed in the 20th century to achieve World Cultural Heritage designation by UNESCO.
+
+Its modern architecture and harmonious contrast between green vegetation and concrete make Brasilia a unique city and destination. The main Niemeyer´s attractions are the National Congress, the Planalto Palace, the Justice Palace, the Metropolitan Cathedral of Brasilia and the TV Tower. Other prominent places in the city are the Lady Sarah Kubitschek City Park and the Paranoá Lake.
+
+### The Nature
+
+Located in the heart of Brazil, Brasilia is surrounded by the Cerrado biome, which guards unbelievable natural beauties. The Cerrado is the world’s most biologically rich savanna. It has over 10,000 species of plants, of which 45% are exclusive to the Cerrado, and it stretches across nearly 500 million acres of Brazil — an area nearly three times the size of Texas. The Cerrado also feeds three of the major water basins in South America: the Amazon, Paraguay and São Francisco Rivers.
+
+The Cerrado is home to 935 species of birds and nearly 300 mammals, including such endangered species as: cerrado fox, giant anteater, jaguar and maned wolf. Scientists estimate that the Cerrado harbors as many as 10,000 species of vascular plants. More than 400 tree and shrub species are unique to the region.
+
+The climate is dry and the trees are twisted. During the day, it’s hot, but at night, the cold weather is pleasant. The Cerrado is without doubt one of the most beautiful Brazilian biomes. For those who like to be in contact with nature, the Chapada dos Veadeiros and the city of Pirenópolis are two must-see refuges near by Brasília.
+
+### Useful links
+Visit Brasil: [http://www.visitbrasil.com/en/](http://www.visitbrasil.com/en/)
+Brasilia Convention&Visitors Bureau: [http://brasiliaconvention.com.br/sitenovo/?lang=en](http://brasiliaconvention.com.br/sitenovo/?lang=en)
+Lonely Planet Guide: [www.lonelyplanet.com/brazil/brasilia-goias](http://www.lonelyplanet.com/brazil/brasilia-goias)
+
