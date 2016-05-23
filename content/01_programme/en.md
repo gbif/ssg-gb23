@@ -64,7 +64,7 @@ Time: 09:00-17:00
 Room: Santa Cruz 1+2+3
 *Open to Governing Board delegates and invited observers.*
 
-### Wednesday 26 October
+### Wednesday 26 October 2016
 
 **GBIF Public Symposium**
 Time: 09:00-12:30
