@@ -30,7 +30,7 @@ templates:
 
 Note that all attendance is subject to prior registration.  Unless otherwise stated, the events will take place at Complexo Brasil 21. 
 
-### Monday, 24 October
+### Monday, 24 October 2016
 
 **Nodes Steering Group meeting** 
 Time: 09:00-12:30
@@ -57,7 +57,7 @@ Time: to be confirmed
 Venue: To be confirmed
 *All participants are invited to the Welcome dinner hosted by the Brazilian Delegation.*
 
-### Tuesday, 25 October
+### Tuesday, 25 October 2016
 
 **Governing Board meeting: Day 1**
 Time: 09:00-17:00
@@ -80,17 +80,16 @@ Room: Santa Cruz 1+2+3
 **Executive Committee meeting**
 Time: 17:00-19:00
 Room: To be confirmed
-Post-GB meeting of the GBIF Executive Committee. Open to Executive Committee members. 
-*Open only to committee members.* 
+*Post-GB meeting of the GBIF Executive Committee. Open only to committee members.* 
 
-### Thursday, 27 October
+### Thursday, 27 October 2016
 
 **SiBBr Symposium**
 Time: 09:00-17:00
 Venue: CNPq Auditorium (National Council for Scientific and Technological Development - CNPq)
 *Open to the public.*
 
-### Friday, 28 October
+### Friday, 28 October 2016
 
 **Excursion**
 Time: All day event
