@@ -2,7 +2,7 @@
 title: Registration
 description: Official delegates, invited observers and GBIF Secretariat staff must register in advance to attend GB23.
 image: /images/vitoria.jpg
-imageTitle: Vitoria Amazonica BY José Sabino
+imageTitle: Vitoria Amazonica BY José Sabino/SiBBr
 imageLink: link to reference
 ---
 # Registration
