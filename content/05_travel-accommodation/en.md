@@ -2,7 +2,7 @@
 title: Travel and acccomodation
 description: Learn more about the event along with other tips and pointers for those travelling to Brasília.
 image: /images/turtle.jpg
-imageTitle: Descr and credit goes here
+imageTitle:  
 imageLink: link to owner
 ---
 
@@ -83,7 +83,7 @@ Breakfast and internet included.
 5% Service + 3,00 BRL Tourism Tax
 Booking: Brasil 21 Suites: suites@meliahotels.com.br (please refer to booking code: SiBBr)
 
-Brasil 21 Hotels Address:
+Address for all three Brasil 21 Hotels:
 Setor Hoteleiro Sul Quadra 6 - Bl. B, D e F Brasilia 
 Phone: +55 (61) 32184700
 web site: brasil21hoteis.com.br/home.php
