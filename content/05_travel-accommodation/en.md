@@ -31,11 +31,12 @@ In the political heart of the capital of Brazil, near to the National Congress, 
 The convention center is located approx. 16 km from the Brasília International Airport. 
 
 Address:
-[**Brasil 21 Convention Center**](http://convencoesbrasil21.com.br)
+__Brasil 21 Convention Center__
 Brasil 21 Complex Center
 SHS Quadra 06 Bloco G
 Setor Hoteleiro Sul - Brasília
 Brazil
+[http://convencoesbrasil21.com.br](convencoesbrasil21.com.br)
 
 The following events will take place at the Brasil 21:
 * GBIF committee meetings - Budget, Science and Executive (24 October)
@@ -45,9 +46,9 @@ The following events will take place at the Brasil 21:
 
 ### Other venues
 
-**Welcome dinner** (24 October) - venue to be confirmed
+__Welcome dinner__ (24 October) - venue to be confirmed
 
-**SiBBr Symposium** (27 October)
+__SiBBr Symposium__ (27 October)
 CNPq Auditorium (National Council for Scientific and Technological Development - CNPq)
 SHIS QI 1 Conjunto B
 Blocos A, B, C e D
@@ -65,109 +66,103 @@ The meeting venue, Brasil 21 Convention Center, is located at the SHS and the co
 
 For your convenience, the organizers would suggest to book a room in one of these hotels. For these hotels, the local organizers have obtained a special rate for the GB23 group, and the reservations can be made by email.
 
-**Melia Brasil 21***** **
+__Melia Brasil 21*****__
 Rate: 409,00 BRL
 Breakfast and internet included.
 5% Service + 3,00 BRL Tourism Tax
-Booking: melia.brasil21@meliahotels.com.br (please refer to booking code: SiBBr)
+Booking: [melia.brasil21@meliahotels.com.br](mailto:melia.brasil21@meliahotels.com.br) (please refer to booking code: SiBBr)
 
-**Brasil 21 Convention**** **
+__Brasil 21 Convention****__
 Rate: 309,00 BRL
 Breakfast and internet included.
 5% Service + 3,00 BRL Tourism Tax
-Booking: Brasil 21 Suites: convention@meliahotels.com.br (please refer to booking code: SiBBr)
+Booking: Brasil 21 Suites: [convention@meliahotels.com.br](mailto:convention@meliahotels.com.br) (please refer to booking code: SiBBr)
 
-**Brasil 21 Suites**** **
+__Brasil 21 Suites****__
 Rate: 309 BRL
 Breakfast and internet included.
 5% Service + 3,00 BRL Tourism Tax
-Booking: Brasil 21 Suites: suites@meliahotels.com.br (please refer to booking code: SiBBr)
+Booking: Brasil 21 Suites: [suites@meliahotels.com.br](mailto:suites@meliahotels.com.br) (please refer to booking code: SiBBr)
 
 Address for all three Brasil 21 Hotels:
 Setor Hoteleiro Sul Quadra 6 - Bl. B, D e F Brasilia 
 Phone: +55 (61) 32184700
-web site: brasil21hoteis.com.br/home.php
+web site: [brasil21hoteis.com.br/home.php](http://brasil21hoteis.com.br/home.php)
 
-### Other hotels in walking distance
+### Other hotels in walking distance of the meeting venue
 
-Windsor Plaza Brasília Hotel****
-
+__Windsor Plaza Brasília Hotel****__
 Setor Hoteleiro Sul Quadra 5 Bloco H - Brasília
 Phone: +55 (61) 21951100
-E-mail: centraldereservas@windsorhoteis.com.br
-Reservations: http://windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao/
-web site: http://windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao/    
+E-mail: [centraldereservas@windsorhoteis.com.br](mailto:centraldereservas@windsorhoteis.com.br)
+Web site: [windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao/](http://windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao/)
+Booking: [windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao/](mailto:http://windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao/)
+  
+Rates:
++ Superior Single/Double - 380,00 BRL
++ Superior Executive Single/Double - 402,00 BRL
++ Superior Executive Club Single/Double - 515,00 BRL
++ Suíte Club Single/Double - 692,00 BRL
 
-Fares
-Superior Single/Double - 380,00 BRL
-Superior Executive Single/Double - 402,00 BRL
-Superior Executive Club Single/Double - 515,00 BRL
-Suíte Club Single/Double - 692,00 BRL
-
-Grand Bittar****
-
+__Grand Bittar****__
 Setor Hoteleiro Sul Quadra 5 Bloco A - Brasília
 Phone: +55 (61) 3704-5000
-E-mail: reservas@hoteisbittar.com.br
-Reservations: http://www.hoteisbittar.com.br/grand_bittar/site/reservas.php
-web site: http://www.hoteisbittar.com.br/grand_bittar/site/    
-
-Fares
+E-mail: [reservas@hoteisbittar.com.br](mailto:reservas@hoteisbittar.com.br)
+Wb site: [www.hoteisbittar.com.br/grand_bittar/site/](http://www.hoteisbittar.com.br/grand_bittar/site/)
+Booking: [www.hoteisbittar.com.br/grand_bittar/site/reservas.php](http://www.hoteisbittar.com.br/grand_bittar/site/reservas.php)
+  
+Rates:
 Not Informed
 
-Naoum Hotel***
-
+__Naoum Hotel***__
 Setor Hoteleiro Sul Quadra 3, Bloco J- Brasília
 Phone: +55 (61) 32124545
-E-mail: reservas.neb@naoumhoteis.com.br
-Reservations:http://www.naoumhoteis.com.br/v2/NEB/paginas/template.php
-web site: http://www.naoumhoteis.com.br/     
+E-mail: [reservas.neb@naoumhoteis.com.br](mailto:reservas.neb@naoumhoteis.com.br)
+Web site: [www.naoumhoteis.com.br/](http://www.naoumhoteis.com.br/)
+Booking: [www.naoumhoteis.com.br/v2/NEB/paginas/template.php](http://www.naoumhoteis.com.br/v2/NEB/paginas/template.php)
 
-Fares
-Single - 362,00 BRL + 10%
-Double – 442,00 BRL + 10%
-Triple - 482,00 BRL +10%
+Rates:
++ Single - 362,00 BRL + 10%
++ Double – 442,00 BRL + 10%
++ Triple - 482,00 BRL +10%
 
-San Marco Hotel***
-
+__San Marco Hotel***__
 Setor Hoteleiro Sul Quadra 5 Bloco C - Brasília  
 Phone: +55 (61) 21038441
 Toll Free: 0800618484
-Reservations: http://www.sanmarco.com.br/reserva.php
-web site: http://www.sanmarco.com.br
+Web site: [www.sanmarco.com.br](http://www.sanmarco.com.br)
+Booking: [www.sanmarco.com.br/reserva.php](http://www.sanmarco.com.br/reserva.php)
 
-Fares
+Rates:
 Not informed
 
-Phenícia Bittar Hotel**
-
+__Phenícia Bittar Hotel**__
 Setor Hoteleiro Sul Quadra 5 Bloco J - Brasília
 Phone: +55 (61) 37046000
-E-mail: phenicia@hoteisbittar.com.br
-Reservations: hoteisbittar.com.br/phenicia/site/reservas.php
-web site: http://www.hoteisbittar.com.br/ phenicia/site/index.php    
+E-mail: [phenicia@hoteisbittar.com.br](mailto:phenicia@hoteisbittar.com.br)
+Web site: [www.hoteisbittar.com.br/phenicia/site/index.php](http://www.hoteisbittar.com.br/phenicia/site/index.php)
+Booking: [www.hoteisbittar.com.br/phenicia/site/reservas.php](http://www.hoteisbittar.com.br/phenicia/site/reservas.php)
+  
+Rates:
++ Single - 240,00 BRL
++ Double - 260,00 BRL
 
-Fares
-Single - 240,00 BRL
-Double - 260,00 BRL
-
-America Bittar Hotel**
-
+__America Bittar Hotel**__
 Setor Hoteleiro Sul Quadra 4 Bloco D Brasília
 Phone: +55 (61) 30343355
-E-mail: america@hoteisbittar.com.br
-Reservations:www.hoteisbittar.com.br/america/site/reservas.php
-web site:www.hoteisbittar.com.br/america/site/index.php
+E-mail: [america@hoteisbittar.com.br](mailto:america@hoteisbittar.com.br)
+Web site: [www.hoteisbittar.com.br/america/site/index.php](http://www.hoteisbittar.com.br/america/site/index.php)
+Booking: [www.hoteisbittar.com.br/america/site/reservas.php](http://www.hoteisbittar.com.br/america/site/reservas.php)
 
-Fares
-Single - 230,00 BRL + 10%
-Double - 290,00 BRL + 10%
+Rates: 
++ Single - 230,00 BRL + 10%
++ Double - 290,00 BRL + 10%
 
 ----------
 
 ## Map
 
-Click <a href="https://www.google.com/maps/d/viewer?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" target="_blank">here</a> to go to a map showing location of venues, hotels, airport and other locations of interest. 
+Click <a href="https://www.google.com/maps/d/viewer?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" target="_blank">__here__</a> to go to a map showing location of venues, hotels, airport and other locations of interest. 
 
 ```styledYaml
 images:
