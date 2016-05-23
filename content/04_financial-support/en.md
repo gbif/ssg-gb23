@@ -2,7 +2,7 @@
 title: Financial support
 description: The GBIF Secretariat offers the possibility to apply for partial funding to attend the Governing Board meeting.
 image: /images/flor.jpg
-imageTitle: Campo de altitude em flor MG By José Sabino
+imageTitle: Campo de altitude em flor MG By José Sabino/SiBBr
 imageLink: Link to owner
 ---
 
