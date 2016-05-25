@@ -73,7 +73,7 @@ Breakfast and Internet included.
 5% Service + 3,00 BRL Tourism Tax
 Booking: [email Meliã Brasil 21](mailto:melia.brasil21@meliahotels.com.br) and refer to booking code **SiBBr**
 
-**Brasil 21 Convention*
+**Brasil 21 Convention**
 *Rate: 309,00 BRL*
 Includes breakfast and Internet. Additional fees: 5% service + 3,00 BRL tourism tax.
 Booking: [email Brasil 21 Convention](mailto:convention@meliahotels.com.br) and refer to booking code **SiBBr**
@@ -91,10 +91,10 @@ Phone: +55 (61) 32184700
 
 ### Other hotels in walking distance of the meeting venue
 
-**Windsor Plaza Brasília Hotel__
+**Windsor Plaza Brasília Hotel**
 Setor Hoteleiro Sul Quadra 5 Bloco H
 Brasília
-*Rates
+*Rates*
 • Superior Single/Double: 380,00 BRL
 • Superior Executive Single/Double: 402,00 BRL
 • Superior Executive Club Single/Double: 515,00 BRL
@@ -162,21 +162,21 @@ images:
 
 ## Getting to Brasília
 
-[Brasília International Airport Juscelino Kubitschek (BSB)](http://www.bsb.aero/en/) is a major hub for travel within Brazil and services numerous flights every day. However, unlike other capital cities, just few international non-stop flights travel directly to Brasília:
-• Buenos Aires (Aerolineas Argentinas)
-• Lisbon (TAP Portugal)
-• Miami (LATAM and American Airlines)
-• Orlando (TAM)
-• Panama City (COPA)
-• Paris (Air France).
+[Brasília International Airport Juscelino Kubitschek (BSB)](http://www.bsb.aero/en/) is a major hub for travel within Brazil and services numerous flights every day. However, unlike other capital cities, only a few international airports offer non-stop flights travel directly to Brasília:
++ Buenos Aires (Aerolineas Argentinas)
++ Lisbon (TAP Portugal)
++ Miami (LATAM and American Airlines)
++ Orlando (TAM)
++ Panama City (COPA)
++ Paris (Air France)
 
 Those not flying directly to Brasília will probably travel through São Paulo, Guarulhos Airport (GRU) or Rio de Janeiro, Galeão Airport (GIG), the main international entrances to Brazil. In both of these airports, travellers will have to pass through Brazilian customs and immigration on arrival and then re-board in a domestic flight to Brasília. 
 
 When booking flights to São Paulo or Rio de Janeiro, please make sure that your domestic flight to Brasilia departs from the same airport. Both cities have domestic airports, and traveling between the international and domestic ones will add unnecessary travel time.
 
-+ [BSB: Brasília International Airport Juscelino Kubitschek](http://www.bsb.aero/en) 
-+ [GRU: São Paulo Guarulhos International Airport](http://www.gru.com.br/en-us)
-+ [GIG – Rio Galeão International Airport](http://www.riogaleao.com/en)
++ [**BSB**: Brasília International Airport Juscelino Kubitschek](http://www.bsb.aero/en) 
++ [**GRU**: São Paulo Guarulhos International Airport](http://www.gru.com.br/en-us)
++ [**GIG**: Rio Galeão International Airport](http://www.riogaleao.com/en)
 
 -------------
 
@@ -200,7 +200,7 @@ It is also possible to take the Airport Bus Service to your hotel at Setor Hotel
 
 ## Travel requirements for entering Brazil
 
-GB23 participants are responsible for preparing their own travel documentation requirements for entering Brazil (this includes visas, vaccinations, etc). Please make sure to verify what the requirements are with [your nearest Brazilian Embassy or Brazilian Consulate](http://embassy.goabroad.com/embassies-of/brazil)
+GB23 participants are responsible for preparing their own travel documentation requirements for entering Brazil (this includes visas, vaccinations, etc). Please make sure to verify the requirements with [your nearest Brazilian Embassy or Brazilian Consulate](http://embassy.goabroad.com/embassies-of/brazil)
 
 ### Visa
 
