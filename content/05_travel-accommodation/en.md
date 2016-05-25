@@ -26,9 +26,9 @@ images:
 
 The main events of GB23 will be held at the Brasil 21 Convention Center. 
 
-In the political heart of the capital of Brazil, near to the National Congress, the Planalto Palace and the Ministries, Brasil 21 is a mixed use complex in the Setor Hoteleiro Sul (South Hotel Sector). The place combines convention center, three hotels, services, leisure facilities, gastronomy and business towers. 
+Located in the political heart of Brazil's capital close to the National Congress, the Planalto Palace and the Ministries, Brasil 21 is a mixed-use complex in the Setor Hoteleiro Sul (South Hotel Sector). The venue comprises the convention center, three hotels, services, leisure facilities, gastronomy and business towers. 
 
-The convention center is located approx. 16 km from the Brasília International Airport. 
+Brasil 21 is 16 km from the Brasília International Airport. 
 
 Address:
 __Brasil 21 Convention Center__
@@ -46,7 +46,8 @@ The following events will take place at the Brasil 21:
 
 ### Other venues
 
-__Welcome dinner__ (24 October) - venue to be confirmed
+__Welcome dinner__ (24 October)
+Venue to be confirmed
 
 __SiBBr Symposium__ (27 October)
 CNPq Auditorium (National Council for Scientific and Technological Development - CNPq)
@@ -59,85 +60,83 @@ Brazil
 
 ## Hotels
 
-Brasília hotels are divided in two areas - Sectors South (SHS) and North (SHN). They are right in the city center and around 20-30 minutes from the airport by car. From the airport it is also possible to take the Airport Bus Service that stops near by most of the hotels and takes about one hour.
+Brasília hotels are divided in two sectors, South (SHS) and North (SHN). They are right in the city center and around 20-30 minutes from the airport by car. Visitors can also take the Airport Bus Service from the airport, which stops near by most of the hotels and takes about one hour.
 
 ### Hotels at the Brasil 21 Complex Center
-The meeting venue, Brasil 21 Convention Center, is located at the SHS and the complex has three hotels towers - the superior Meliã Brasil 21 and the more affordable Brasil 21 Suites and Brasil 21 Convention.
+The meeting venue, Brasil 21 Convention Center, is located at the SHS and the complex has three hotels towers: the superior Meliã Brasil 21 and the more affordable Brasil 21 Suites and Brasil 21 Convention.
 
-For your convenience, the organizers would suggest to book a room in one of these hotels. For these hotels, the local organizers have obtained a special rate for the GB23 group, and the reservations can be made by email.
+For your convenience, the local organizers recommend booking a room in one of these hotels. They have obtained a special rate for the GB23 attendees, and attendees can make reservations via email.
 
-__Melia Brasil 21*****__
+__Meliã Brasil 21__
 Rate: 409,00 BRL
 Breakfast and internet included.
 5% Service + 3,00 BRL Tourism Tax
-Booking: [melia.brasil21@meliahotels.com.br](mailto:melia.brasil21@meliahotels.com.br) (please refer to booking code: SiBBr)
+Booking: [email Meliã Brasil 21](mailto:melia.brasil21@meliahotels.com.br) and refer to booking code **SiBBr**
 
-__Brasil 21 Convention****__
+__Brasil 21 Convention__
 Rate: 309,00 BRL
 Breakfast and internet included.
 5% Service + 3,00 BRL Tourism Tax
-Booking: Brasil 21 Suites: [convention@meliahotels.com.br](mailto:convention@meliahotels.com.br) (please refer to booking code: SiBBr)
+Booking: [email Brasil 21 Convention](mailto:convention@meliahotels.com.br) and refer to booking code **SiBBr**
 
-__Brasil 21 Suites****__
+__Brasil 21 Suites__
 Rate: 309 BRL
 Breakfast and internet included.
 5% Service + 3,00 BRL Tourism Tax
-Booking: Brasil 21 Suites: [suites@meliahotels.com.br](mailto:suites@meliahotels.com.br) (please refer to booking code: SiBBr)
+Booking: [email Brasil 21 Suites](mailto:suites@meliahotels.com.br) and refer to booking code **SiBBr**
 
-Address for all three Brasil 21 Hotels:
-Setor Hoteleiro Sul Quadra 6 - Bl. B, D e F Brasilia 
+**Address for all three Brasil 21 Hotels**
+Setor Hoteleiro Sul Quadra 6 - Bl. B
+D e F Brasilia 
 Phone: +55 (61) 32184700
-web site: [brasil21hoteis.com.br/home.php](http://brasil21hoteis.com.br/home.php)
+[brasil21hoteis.com.br/home.php](http://brasil21hoteis.com.br)
 
 ### Other hotels in walking distance of the meeting venue
 
-__Windsor Plaza Brasília Hotel****__
-Setor Hoteleiro Sul Quadra 5 Bloco H - Brasília
-Phone: +55 (61) 21951100
-E-mail: [centraldereservas@windsorhoteis.com.br](mailto:centraldereservas@windsorhoteis.com.br)
-Web site: [windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao/](http://windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao/)
-Booking: [windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao/](mailto:http://windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao/)
-  
-Rates:
+__Windsor Plaza Brasília Hotel__
+Setor Hoteleiro Sul Quadra 5 Bloco H
+Brasília
+*Rates*
 + Superior Single/Double - 380,00 BRL
 + Superior Executive Single/Double - 402,00 BRL
 + Superior Executive Club Single/Double - 515,00 BRL
 + Suíte Club Single/Double - 692,00 BRL
-
-__Grand Bittar****__
-Setor Hoteleiro Sul Quadra 5 Bloco A - Brasília
-Phone: +55 (61) 3704-5000
-E-mail: [reservas@hoteisbittar.com.br](mailto:reservas@hoteisbittar.com.br)
-Wb site: [www.hoteisbittar.com.br/grand_bittar/site/](http://www.hoteisbittar.com.br/grand_bittar/site/)
-Booking: [www.hoteisbittar.com.br/grand_bittar/site/reservas.php](http://www.hoteisbittar.com.br/grand_bittar/site/reservas.php)
+Phone: +55 (61) 21951100
+[email](mailto:centraldereservas@windsorhoteis.com.br) | [website](http://windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao) | [booking](mailto:http://windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao)
   
-Rates:
-Not Informed
-
-__Naoum Hotel***__
-Setor Hoteleiro Sul Quadra 3, Bloco J- Brasília
+__Grand Bittar__
+Setor Hoteleiro Sul Quadra 5 Bloco A
+Brasília
+*Rates*
++ no information
+Phone: +55 (61) 3704-5000
+[email](mailto:reservas@hoteisbittar.com.br) | [website](http://www.hoteisbittar.com.br/grand_bittar/site) | [booking](http://www.hoteisbittar.com.br/grand_bittar/site/reservas.php)
+  
+__Naoum Hotel__
+Setor Hoteleiro Sul Quadra 3, Bloco J
+Brasília
+*Rates*
++ Single: 362,00 BRL + 10%
++ Double: 442,00 BRL + 10%
++ Triple: 482,00 BRL +10%
 Phone: +55 (61) 32124545
-E-mail: [reservas.neb@naoumhoteis.com.br](mailto:reservas.neb@naoumhoteis.com.br)
-Web site: [www.naoumhoteis.com.br/](http://www.naoumhoteis.com.br/)
-Booking: [www.naoumhoteis.com.br/v2/NEB/paginas/template.php](http://www.naoumhoteis.com.br/v2/NEB/paginas/template.php)
+[email](mailto:reservas.neb@naoumhoteis.com.br) | [website](http://www.naoumhoteis.com.br) | [booking](http://www.naoumhoteis.com.br/v2/NEB/paginas/template.php)
 
-Rates:
-+ Single - 362,00 BRL + 10%
-+ Double – 442,00 BRL + 10%
-+ Triple - 482,00 BRL +10%
 
-__San Marco Hotel***__
-Setor Hoteleiro Sul Quadra 5 Bloco C - Brasília  
+__San Marco Hotel__
+Setor Hoteleiro Sul Quadra 5 Bloco C
+Brasília  
+*Rates*
++ no information
 Phone: +55 (61) 21038441
 Toll Free: 0800618484
-Web site: [www.sanmarco.com.br](http://www.sanmarco.com.br)
-Booking: [www.sanmarco.com.br/reserva.php](http://www.sanmarco.com.br/reserva.php)
+[website](http://www.sanmarco.com.br) | [booking](http://www.sanmarco.com.br/reserva.php)
 
-Rates:
-Not informed
-
-__Phenícia Bittar Hotel**__
-Setor Hoteleiro Sul Quadra 5 Bloco J - Brasília
+__Phenícia Bittar Hotel__
+Setor Hoteleiro Sul Quadra 5 Bloco J
+Brasília
+*Rates*
++ no information
 Phone: +55 (61) 37046000
 E-mail: [phenicia@hoteisbittar.com.br](mailto:phenicia@hoteisbittar.com.br)
 Web site: [www.hoteisbittar.com.br/phenicia/site/index.php](http://www.hoteisbittar.com.br/phenicia/site/index.php)
