@@ -136,26 +136,19 @@ __Phenícia Bittar Hotel__
 Setor Hoteleiro Sul Quadra 5 Bloco J
 Brasília
 *Rates*
-+ no information
++ Single: 240,00 BRL
++ Double: 260,00 BRL
 Phone: +55 (61) 37046000
-E-mail: [phenicia@hoteisbittar.com.br](mailto:phenicia@hoteisbittar.com.br)
-Web site: [www.hoteisbittar.com.br/phenicia/site/index.php](http://www.hoteisbittar.com.br/phenicia/site/index.php)
-Booking: [www.hoteisbittar.com.br/phenicia/site/reservas.php](http://www.hoteisbittar.com.br/phenicia/site/reservas.php)
-  
-Rates:
-+ Single - 240,00 BRL
-+ Double - 260,00 BRL
+[email](mailto:phenicia@hoteisbittar.com.br) | [website](http://www.hoteisbittar.com.br/phenicia/site/index.php) | [booking](http://www.hoteisbittar.com.br/phenicia/site/reservas.php)
 
-__America Bittar Hotel**__
-Setor Hoteleiro Sul Quadra 4 Bloco D Brasília
+__America Bittar Hotel__
+Setor Hoteleiro Sul Quadra 4 Bloco D
+Brasília
+*Rates* 
++ Single: 230,00 BRL + 10%
++ Double: 290,00 BRL + 10%
 Phone: +55 (61) 30343355
-E-mail: [america@hoteisbittar.com.br](mailto:america@hoteisbittar.com.br)
-Web site: [www.hoteisbittar.com.br/america/site/index.php](http://www.hoteisbittar.com.br/america/site/index.php)
-Booking: [www.hoteisbittar.com.br/america/site/reservas.php](http://www.hoteisbittar.com.br/america/site/reservas.php)
-
-Rates: 
-+ Single - 230,00 BRL + 10%
-+ Double - 290,00 BRL + 10%
+[email](mailto:america@hoteisbittar.com.br) | [website](http://www.hoteisbittar.com.br/america/site/index.php) | [booking](http://www.hoteisbittar.com.br/america/site/reservas.php)
 
 ----------
 
