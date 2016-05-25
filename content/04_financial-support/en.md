@@ -12,6 +12,8 @@ __Deadline for applications: 29 July 2016__
 
 The GBIF Secretariat offers delegates the possibility of applying for partial funding to attend the Governing Board meeting in Brasilia on 25-26 October 2016.
 
++ [Financial support application form](/raw/programme.pdf)
+
 ## Guidelines
 
 The GBIF Executive Committee has established that partial financial support is limited to Voting Participants from developing countries in one of the following three groups: 
@@ -27,7 +29,7 @@ The GBIF Secretariat offers partial financial assistance to support delegations 
 + Partial financial support is only available for GBIF developing country Voting Participants.
 + Only one delegate per delegation is eligible to receive support.
 
-Delegations must submit an [application form](/src/raw/programme.pdf) that includes the following information:
+Delegations must submit an [application form](/raw/programme.pdf) that includes the following information:
 
 + A draft economy class flight schedule from country of origin to Brazil and indication of the flight costs
 + The number of days requested for accommodation support (up to a maximum of three (3) days)

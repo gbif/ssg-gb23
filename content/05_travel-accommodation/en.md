@@ -67,22 +67,20 @@ The meeting venue, Brasil 21 Convention Center, is located at the SHS and the co
 
 For your convenience, the local organizers recommend booking a room in one of these hotels. They have obtained a special rate for the GB23 attendees, and attendees can make reservations via email.
 
-__Meliã Brasil 21__
-Rate: 409,00 BRL
-Breakfast and internet included.
+**Meliã Brasil 21**
+*Rate: 409,00 BRL*
+Breakfast and Internet included. 
 5% Service + 3,00 BRL Tourism Tax
 Booking: [email Meliã Brasil 21](mailto:melia.brasil21@meliahotels.com.br) and refer to booking code **SiBBr**
 
-__Brasil 21 Convention__
-Rate: 309,00 BRL
-Breakfast and internet included.
-5% Service + 3,00 BRL Tourism Tax
+**Brasil 21 Convention*
+*Rate: 309,00 BRL*
+Includes breakfast and Internet. Additional fees: 5% service + 3,00 BRL tourism tax.
 Booking: [email Brasil 21 Convention](mailto:convention@meliahotels.com.br) and refer to booking code **SiBBr**
 
-__Brasil 21 Suites__
-Rate: 309 BRL
-Breakfast and internet included.
-5% Service + 3,00 BRL Tourism Tax
+**Brasil 21 Suites**
+*Rate: 309 BRL*
+Includes breakfast and Internet. Additional fees: 5% service + 3,00 BRL tourism tax.
 Booking: [email Brasil 21 Suites](mailto:suites@meliahotels.com.br) and refer to booking code **SiBBr**
 
 **Address for all three Brasil 21 Hotels**
@@ -93,60 +91,57 @@ Phone: +55 (61) 32184700
 
 ### Other hotels in walking distance of the meeting venue
 
-__Windsor Plaza Brasília Hotel__
+**Windsor Plaza Brasília Hotel__
 Setor Hoteleiro Sul Quadra 5 Bloco H
 Brasília
-*Rates*
-+ Superior Single/Double - 380,00 BRL
-+ Superior Executive Single/Double - 402,00 BRL
-+ Superior Executive Club Single/Double - 515,00 BRL
-+ Suíte Club Single/Double - 692,00 BRL
+*Rates
+• Superior Single/Double: 380,00 BRL
+• Superior Executive Single/Double: 402,00 BRL
+• Superior Executive Club Single/Double: 515,00 BRL
+• Suíte Club Single/Double: 692,00 BRL
 Phone: +55 (61) 21951100
 [email](mailto:centraldereservas@windsorhoteis.com.br) | [website](http://windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao) | [booking](mailto:http://windsorhoteis.com/hotel/windsor-plaza-brasilia/apresentacao)
   
-__Grand Bittar__
+**Grand Bittar**
 Setor Hoteleiro Sul Quadra 5 Bloco A
 Brasília
-*Rates*
-+ no information
+*Rates: no information*
 Phone: +55 (61) 3704-5000
 [email](mailto:reservas@hoteisbittar.com.br) | [website](http://www.hoteisbittar.com.br/grand_bittar/site) | [booking](http://www.hoteisbittar.com.br/grand_bittar/site/reservas.php)
   
-__Naoum Hotel__
+**Naoum Hotel**
 Setor Hoteleiro Sul Quadra 3, Bloco J
 Brasília
 *Rates*
-+ Single: 362,00 BRL + 10%
-+ Double: 442,00 BRL + 10%
-+ Triple: 482,00 BRL +10%
+• Single: 362,00 BRL + 10%
+• Double: 442,00 BRL + 10%
+• Triple: 482,00 BRL +10%
 Phone: +55 (61) 32124545
 [email](mailto:reservas.neb@naoumhoteis.com.br) | [website](http://www.naoumhoteis.com.br) | [booking](http://www.naoumhoteis.com.br/v2/NEB/paginas/template.php)
 
-
-__San Marco Hotel__
+**San Marco Hotel**
 Setor Hoteleiro Sul Quadra 5 Bloco C
 Brasília  
-*Rates*
-+ no information
+*Rates: no information*
 Phone: +55 (61) 21038441
 Toll Free: 0800618484
 [website](http://www.sanmarco.com.br) | [booking](http://www.sanmarco.com.br/reserva.php)
 
-__Phenícia Bittar Hotel__
+**Phenícia Bittar Hotel**
 Setor Hoteleiro Sul Quadra 5 Bloco J
 Brasília
 *Rates*
-+ Single: 240,00 BRL
-+ Double: 260,00 BRL
+• Single: 240,00 BRL
+• Double: 260,00 BRL
 Phone: +55 (61) 37046000
 [email](mailto:phenicia@hoteisbittar.com.br) | [website](http://www.hoteisbittar.com.br/phenicia/site/index.php) | [booking](http://www.hoteisbittar.com.br/phenicia/site/reservas.php)
 
-__America Bittar Hotel__
+**America Bittar Hotel**
 Setor Hoteleiro Sul Quadra 4 Bloco D
 Brasília
 *Rates* 
-+ Single: 230,00 BRL + 10%
-+ Double: 290,00 BRL + 10%
+• Single: 230,00 BRL + 10%
+• Double: 290,00 BRL + 10%
 Phone: +55 (61) 30343355
 [email](mailto:america@hoteisbittar.com.br) | [website](http://www.hoteisbittar.com.br/america/site/index.php) | [booking](http://www.hoteisbittar.com.br/america/site/reservas.php)
 
@@ -154,7 +149,7 @@ Phone: +55 (61) 30343355
 
 ## Map
 
-Click <a href="https://www.google.com/maps/d/viewer?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" target="_blank">__here__</a> to go to a map showing location of venues, hotels, airport and other locations of interest. 
+<a href="https://www.google.com/maps/d/viewer?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" target="_blank">View full-screen map location of venues, hotels, airport and other locations of interest</a> 
 
 ```styledYaml
 images:
@@ -167,13 +162,21 @@ images:
 
 ## Getting to Brasília
 
-[Brasília International Airport Juscelino Kubitschek (BSB)](http://www.bsb.aero/en/) is a major hub for travel within Brazil, so there are numerous flights that go through the city's airport every day. On the other hand, despite being a major capital, there are just few international non-stop flights directly to Brasilia, from: Buenos Aires (Aerolineas Argentinas), Lisbon (TAP Portugal), Miami (LATAM and American Airlines), Orlando (TAM), Panama City (COPA) and Paris (Air France).
+[Brasília International Airport Juscelino Kubitschek (BSB)](http://www.bsb.aero/en/) is a major hub for travel within Brazil and services numerous flights every day. However, unlike other capital cities, just few international non-stop flights travel directly to Brasília:
+• Buenos Aires (Aerolineas Argentinas)
+• Lisbon (TAP Portugal)
+• Miami (LATAM and American Airlines)
+• Orlando (TAM)
+• Panama City (COPA)
+• Paris (Air France).
 
-If you are not flying directly to Brasilia you will probably book a flight to São Paulo, Guarulhos Airport  (GRU) or Rio de Janeiro, Galeão Airport (GIG) - those are the main international entrances to Brazil. In both cases, you will have to go through Brazilian customs and immigration on the arriving airport and re-board in a domestic flight to Brasilia. While booking your flight to São Paulo or Rio de Janeiro, please make sure that your domestic flight to Brasilia will departure from the same airport. Both cities have also have a domestic airport and getting there from the internationals ones would take an unnecessary time.
+Those not flying directly to Brasília will probably travel through São Paulo, Guarulhos Airport (GRU) or Rio de Janeiro, Galeão Airport (GIG), the main international entrances to Brazil. In both of these airports, travellers will have to pass through Brazilian customs and immigration on arrival and then re-board in a domestic flight to Brasília. 
 
-+ BSB - Brasília International Airport Juscelino Kubitschek: www.bsb.aero/en/
-+ GRU – São Paulo Guarulhos International Airport: www.gru.com.br/en-us/
-+ GIG – Rio Galeão International Airport: www.riogaleao.com/en/
+When booking flights to São Paulo or Rio de Janeiro, please make sure that your domestic flight to Brasilia departs from the same airport. Both cities have domestic airports, and traveling between the international and domestic ones will add unnecessary travel time.
+
++ [BSB: Brasília International Airport Juscelino Kubitschek](http://www.bsb.aero/en) 
++ [GRU: São Paulo Guarulhos International Airport](http://www.gru.com.br/en-us)
++ [GIG – Rio Galeão International Airport](http://www.riogaleao.com/en)
 
 -------------
 
@@ -182,21 +185,22 @@ If you are not flying directly to Brasilia you will probably book a flight to S�
 Brasília International Airport Juscelino Kubitschek is situated 11 km (7 mi) from the city center.
 
 ### Taxi
-There are taxis in front of the airport exits. Show or tell the driver the address of your hotel and they will know where to take you. In normal traffic, from BSB, the drive downtown should take around 20-30 minutes. Est. cost – 40 – 50 BRL. 
+Taxis are available in front of the airport exits. Show or tell the driver the address of your hotel, and they will know where to take you. In normal traffic, the drive downtown from BSB should take between 20 and 30 minutes. 
+*Estimated cost*: 40–50 BRL
 
 ### Uber
-Uber is a great and dependable way to get around in Brasilia. If you have the Uber app on your cell phone, you can request a driver and they will arrive to you in just a few minutes. At the airport, the pick-up area for Uber passengers are located on the second floor. The service is usually better, slightly cheaper and more comfortable than a regular taxi. Est. cost - 25 – 45 BRL from BSB. 
+Uber is a great and dependable way to get around in Brasilia. Uber users can use their cell phones to request a driver, who typically arrive within just a few minutes. The pick-up area for Uber passengers at the airport is located on the second floor. Uber service tends to be better, slightly cheaper and more comfortable than a regular taxi.
+*Estimated cost*: 25–45 BRL from BSB
 
 ### Bus
-It is also possible to take the Airport Bus Service to your hotel at Setor Hoteleiro Sul (SHS) or Setor Hoteleiro Norte (SHN). The buses departure every 30 minutes, from 6:30 am to 12:00pm. The service runs every day and the trip will take around 1 hour. The cost is 10 BRL.
+It is also possible to take the Airport Bus Service to your hotel at Setor Hoteleiro Sul (SHS) or Setor Hoteleiro Norte (SHN). The buses departure every 30 minutes, from 6:30 am to 12:00pm. The service runs every day and the trip will take around 1 hour. 
+*Cost*: 10 BRL
 
 -------------
 
 ## Travel requirements for entering Brazil
 
-GB23 participants are responsible for preparing their own travel documentation requirements for entering Brazil (this includes visas, vaccinations, etc). Please make sure to verify what the requirements are with your nearest Brazilian Embassy or Brazilian Consulate.   
-
-Locate your nearest Brazilian Embassy or Consulate: [http://embassy.goabroad.com/embassies-of/brazil](http://embassy.goabroad.com/embassies-of/brazil)
+GB23 participants are responsible for preparing their own travel documentation requirements for entering Brazil (this includes visas, vaccinations, etc). Please make sure to verify what the requirements are with [your nearest Brazilian Embassy or Brazilian Consulate](http://embassy.goabroad.com/embassies-of/brazil)
 
 ### Visa
 
@@ -204,7 +208,7 @@ Brazil maintains a fully reciprocal visa policy. Holders of passports for around
 
 Please be aware that Brazilian visa requirements are very stringent in many countries, and visas can take several weeks to obtain. If you need a visa, we recommend that you apply for your Brazilian visa as soon as possible. There is no option for visa upon arrival in Brazil. Visas MUST be arranged before travelling.
 
-Find here the official rules for each country regarding the Brazilian visa: [http://sistemas.mre.gov.br/kitweb/datafiles/CgWashington/en-us/file/Entrance%20Visas%20in%20Brazil.pdf](http://sistemas.mre.gov.br/kitweb/datafiles/CgWashington/en-us/file/Entrance%20Visas%20in%20Brazil.pdf). 
+[Official rules for each country regarding the Brazilian visa](http://sistemas.mre.gov.br/kitweb/datafiles/CgWashington/en-us/file/Entrance%20Visas%20in%20Brazil.pdf). 
 
 ### Insurance
 
