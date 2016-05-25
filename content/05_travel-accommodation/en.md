@@ -222,7 +222,7 @@ Attendees are advised to make sure what insurance is requested for travel to Bra
 
 The [Center for Disease Control and Prevention (CDC)](http://wwwnc.cdc.gov/travel/notices/alert/2016-summer-olympics-rio) of  the United States recently issued a travel warning for women who are pregnant (in any trimester), advising them to avoid risk and consider postponing travel to Brazil, as the virus has been linked to cases of microcephaly in newborns.
 
-You should not worry about this either, but it is recommended that you pack insect repellant and use it while travelling in Brazil.
+It is recommended that travellers pack and use insect repellant during their visits to Brazil.
 
 ----------
 
@@ -231,7 +231,7 @@ You should not worry about this either, but it is recommended that you pack inse
 ### Electricity
 
 Brasilia standard voltage is 220 V. The standard frequency is 60 Hz.
-+	Converters and adaptors for electronics: The power sockets that are used are type N, although some venues also take US plugs.
++ Converters and adaptors for electronics: The power sockets that are used are type N, although some venues also take US plugs.
 
 ```styledYaml
 images:
@@ -242,19 +242,19 @@ images:
 
 ### Language
 
-Portuguese is the official language of Brazil. Many Brazilians in the larger cities - especially those you encounter working at airports, hotels, better restaurants, tour companies, travel agencies, etc - speak at least some English. Both English and Spanish are taught in many Brazilian schools.
+Portuguese is the official language of Brazil. Many Brazilians in the larger cities—especially those you encounter working at airports, hotels, better restaurants, tour companies and travel agencies—speak at least some English. Both English and Spanish are taught in many Brazilian schools.
 
 ### Money procedures
 
 The unit of currency in Brazil is the real and the plural is reais. The real further divides into 100 centavos. The symbol for real is "R$" and the currency code is BRL. Other currencies, such as USD, are barely accepted in Brazil. So you need to have Reais in your wallet!
 
-+	Change Money: You can exchange money in banks or in currency exchanges located at the Brasilia Airport. Hotels and travel agencies may also exchange money for you; 
-+	Credit and Debit Cards: Visa and MasterCard are widely accepted in Brazil. American Express and Diners Club, are often accepted as well;
-+	ATMs:  ATM’s are located all over the country, including Brasilia Airport. However, there may be limits to the daily amount that you can withdraw from an ATM, specially from 10:00pm to 6:00 am.
++ Change Money: You can exchange money in banks or in currency exchanges located at the Brasilia Airport. Hotels and travel agencies may also exchange money for you; 
++ Credit and Debit Cards: Visa and MasterCard are widely accepted in Brazil. American Express and Diners Club, are often accepted as well;
++ ATMs:  ATM’s are located all over the country, including Brasilia Airport. However, there may be limits to the daily amount that you can withdraw from an ATM, specially from 10:00pm to 6:00 am.
 
 ### Personal security
 
-According to Brazilian security authorities, Brasilia’s “Plano Piloto” (central area of town) is considered as a safe area. Nevertheless precautions should be taken and it is advisable to practice the same caution you would practice when visiting a major metropolitan destination in any country. Consider the caution you take at night in any major city and use the same caution when in Brasília:
+According to Brazilian security authorities, Brasília’s “Plano Piloto” (central area of town) is considered as a safe area. Nevertheless precautions should be taken and it is advisable to practice the same caution you would practice when visiting a major metropolitan destination in any country. Consider the caution you take at night in any major city and use the same caution when in Brasília:
 +	Expensive cameras and jewelry should be worn discreetly;
 +	Purses and wallets can attract attention:
 +	Only carry small amounts of cash and a copy of your passport. Carry only the credit cards you are going to need, not all you have. 
@@ -266,15 +266,15 @@ Brazil has an extensive fixed and mobile phone systems which will allow you to c
  
 Internet services are available everywhere in Brazil.  Most hotels include high speed Internet access in the room.  Additionally, most cafes, restaurants and shopping malls offer free wi-fi services. 
 
-### Tips
+### Tips and service gratuities
 
-In Brazil, tips are usually added in 10% over bills involving servers such as bars, restaurants, etc. Although it is automatically placed in the final bill, 10% charge for services are not mandatory. 
+In Brazil, tips are usually added in 10% over bills involving servers such as bars and restaurants. Although a 10% service charge is automatically placed in the final bill, it is not mandatory. 
 
 In hotels, you should tip the bell boy on an average of 5,00 BRL per bag. For others services, such as cab drivers and barber shops you don’t need to tip.
 
 ### Weather
 
-Brasilia has a subtropical climate. There is a dry season (April to September) and a wet season due to increased humidity present October through March. The average temperature is 20.5 ºC (68.9 F). 
+Brasília has a subtropical climate. Its dry season runs from April to September, while the wet season increases humidity from October to March. The average temperature is 20.5 ºC (68.9 F).
 
 ----------
 
@@ -282,22 +282,21 @@ Brasilia has a subtropical climate. There is a dry season (April to September) a
 
 ### The City
 
-Open in 1960, Brasilia and the Federal District were created to house the new capital of Brazil replacing Rio de Janeiro.  Under the visionary leadership of President Juscelino Kubitschek, architect Oscar Niemeyer, urban planner Lucio Costa and landscape architect Burle Marx, Brasilia was conceived as a workable, utopic answer to modern, urban chaos.  .
+Open in 1960, Brasília and the Federal District were created to house the new capital of Brazil replacing Rio de Janeiro. Under the visionary leadership of President Juscelino Kubitschek, architect Oscar Niemeyer, urban planner Lucio Costa and landscape architect Burle Marx, Brasilia was conceived as a workable, utopic answer to modern, urban chaos.
 
-The purpose-built city is lauded by many for its futuristic architecture and avant-garde design and it is the  the first in the world constructed in the 20th century to achieve World Cultural Heritage designation by UNESCO.
+Many have lauded the purpose-built city for its futuristic architecture and avant-garde design, and it is the first city constructed in the 20th century to achieve a UNESCO World Cultural Heritage designation.
 
 Its modern architecture and harmonious contrast between green vegetation and concrete make Brasilia a unique city and destination. The main Niemeyer´s attractions are the National Congress, the Planalto Palace, the Justice Palace, the Metropolitan Cathedral of Brasilia and the TV Tower. Other prominent places in the city are the Lady Sarah Kubitschek City Park and the Paranoá Lake.
 
 ### The Nature
 
-Located in the heart of Brazil, Brasilia is surrounded by the Cerrado biome, which guards unbelievable natural beauties. The Cerrado is the world’s most biologically rich savanna. It has over 10,000 species of plants, of which 45% are exclusive to the Cerrado, and it stretches across nearly 500 million acres of Brazil — an area nearly three times the size of Texas. The Cerrado also feeds three of the major water basins in South America: the Amazon, Paraguay and São Francisco Rivers.
+Located in the heart of Brazil, Brasilia is surrounded by the Cerrado biome, which guards unbelievable natural beauties. The Cerrado is the world’s most biologically rich savanna, containing more than 10,000 species of plants, 45% of which are endemic. The Cerrado stretches across nearly 500 million acres of Brazil—an area nearly three times the size of Texas. The Cerrado also feeds three of the major water basins in South America: the Amazon, Paraguay and São Francisco Rivers.
 
-The Cerrado is home to 935 species of birds and nearly 300 mammals, including such endangered species as: cerrado fox, giant anteater, jaguar and maned wolf. Scientists estimate that the Cerrado harbors as many as 10,000 species of vascular plants. More than 400 tree and shrub species are unique to the region.
+The Cerrado is home to 935 species of birds and nearly 300 mammals, including such endangered species as cerrado fox, giant anteater, jaguar and maned wolf. 
 
-The climate is dry and the trees are twisted. During the day, it’s hot, but at night, the cold weather is pleasant. The Cerrado is without doubt one of the most beautiful Brazilian biomes. For those who like to be in contact with nature, the Chapada dos Veadeiros and the city of Pirenópolis are two must-see refuges near by Brasília.
+The climate is dry, and the trees are twisted. During the day, it’s hot, but at night, the cold weather is pleasant. The Cerrado is without doubt one of the most beautiful Brazilian biomes. For those who like to be in contact with nature, the Chapada dos Veadeiros and the city of Pirenópolis are two must-see refuges near Brasília.
 
 ### Useful links
-+ Visit Brasil: [http://www.visitbrasil.com/en/](http://www.visitbrasil.com/en/)
-+ Brasilia Convention&Visitors Bureau: [http://brasiliaconvention.com.br/sitenovo/?lang=en](http://brasiliaconvention.com.br/sitenovo/?lang=en)
-+ Lonely Planet Guide: [www.lonelyplanet.com/brazil/brasilia-goias](http://www.lonelyplanet.com/brazil/brasilia-goias)
-
++ [Visit Brasil](http://www.visitbrasil.com/en/)
++ [Brasilia Convention & Visitors Bureau](http://brasiliaconvention.com.br/sitenovo/?lang=en)
++ [Lonely Planet Guide](http://www.lonelyplanet.com/brazil/brasilia-goias)
