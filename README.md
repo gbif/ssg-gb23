@@ -39,5 +39,4 @@ map
 ```styledYaml
 templates:
 - path: map_en.html
-  geojsonUrl: "//api.gbif.org/v1/installation/location/IPT_INSTALLATION"
 ```
