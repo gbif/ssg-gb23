@@ -1,7 +1,7 @@
 // You can write custom js here and it will be injected into the bundle in the end
 ;(function(){
     //if no map on this page, then do not execute
-    var mapElement = document.getElementById('map');
+    var mapElement = document.getElementById('mapWithLocation');
     var section = mapElement.parentElement.parentElement;
     section.className += " fullwidth";
     if (!mapElement) {
