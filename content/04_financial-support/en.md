@@ -17,8 +17,8 @@ templates:
 - path: actions.html
   actions:
   - title: Financial support application form
-    url: /raw/programme.pdf
-    description: Download pdf
+    url: /raw/GB23-partial-funding-application-form.docx
+    description: Download Word doc
 ```
 
 ## Guidelines
@@ -36,7 +36,7 @@ The GBIF Secretariat offers partial financial assistance to support delegations 
 + Partial financial support is only available for GBIF developing country Voting Participants.
 + Only one delegate per delegation is eligible to receive support.
 
-Delegations must submit an [application form](/raw/programme.pdf) that includes the following information:
+Delegations must submit an [application form](/raw/GB23-partial-funding-application-form.docx) that includes the following information:
 
 + A draft economy class flight schedule from country of origin to Brazil and indication of the flight costs
 + The number of days requested for accommodation support (up to a maximum of three (3) days)
