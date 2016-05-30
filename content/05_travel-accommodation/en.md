@@ -290,6 +290,12 @@ Its modern architecture and harmonious contrast between green vegetation and con
 
 ### The Nature
 
+```styledYaml
+images:
+- title: Cerrado biome by Conrado
+  url: /images/cerrado.jpg
+  link: reference-location
+```
 Located in the heart of Brazil, Brasilia is surrounded by the _Cerrado biome,_ which guards unbelievable natural beauties. The Cerrado is the world’s most biologically rich savanna, containing more than 10,000 species of plants, 45% of which are endemic. The Cerrado stretches across nearly 500 million acres of Brazil—an area nearly three times the size of Texas. The Cerrado also feeds three of the major water basins in South America: the Amazon, Paraguay and São Francisco Rivers.
 
 The Cerrado is home to 935 species of birds and nearly 300 mammals, including such endangered species as cerrado fox, giant anteater, jaguar and maned wolf. 
