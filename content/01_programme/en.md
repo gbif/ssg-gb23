@@ -89,13 +89,21 @@ Time: 09:00-17:00
 Venue: CNPq Auditorium (National Council for Scientific and Technological Development - CNPq)
 *Open to the public.*
 
+*According to the Convention of Biological Diversity (CBD), Brazil is the most biologically diverse country in the world. It is classified at the top among the world’s 17 megadiverse countries. It contains two biodiversity hotspots (the Atlantic Forest and the Cerrado), six terrestrial biomes, including the Amazon, and three large marine ecosystems. At least 103,870 animal species and 43,020 plant species are currently known, comprising 70% of the world’s catalogued animal and plant species. It is estimated that Brazil hosts between 15-20% of the world’s biological diversity, with the greatest number of endemic species on a global scale. The knowledge about Brazil’s biodiversity is ever-expanding, with an average of 700 new animal species discovered each year.*
+
+*In this perspective to operate the national biodiversity free access database is not an easy task. The Brazilian Biodiversity Information System (SiBBr), which acts as the Global Biodiversity Information Facility (GBIF) national node, is a project implemented by the Ministry of Science, Technology and Innovation (MCTI) of Brazil, with technical support from the United Nations Environment Programme (UNEP) and funded by the Global Environmental Facility (GEF).*
+
+*As a host of the 23rd meeting (GB23) of the Governing Board of the GBIF, SiBBr will promote an open Symposium that will present the system innovations and the efforts and partnerships within the data mobilization process to establish a network of institutions whose data will be accessible both through GBIF and from the national biodiversity portal.*
+
+*Speakers and the complete agenda will be released soon, but for now the organizers would appreciate if the participants could indicate their intention to attend the SiBBr Sypmposium. The event will be held on Thursday, October, 27th, from 9 am to 5 pm at the main auditorium of the National Council for Scientific and Technological Development (CNPq).*
+
 ### Friday, 28 October 2016
 
 **Excursion**
 Time: All day event
 Venue: Cerrado biome area
 
-*SiBBr kindly offers to the GB23 attendees the possibility of a day trip to a Cerrado biome area near by Brasilia. The excursion will be held on Friday, October 28th.* 
+*SiBBr kindly offers to the GB23 attendees the possibility of a day trip to a [Cerrado biome area](http://gb23.gbif-uat.org/en/travel-accommodation/#the-nature) near by Brasilia. The excursion will be held on Friday, October 28th.* 
 
 *The local organizers are still setting up the trip itinerary.  More information will be released soon, but for now the organizers would appreciate if the participants could indicate if they intend to take part on the excursion.*
 
