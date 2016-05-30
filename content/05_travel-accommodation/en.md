@@ -149,7 +149,7 @@ Phone: +55 (61) 30343355
 
 ## Map
 
-<a href="https://www.google.com/maps/d/viewer?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" target="_blank">View full-screen map location of venues, hotels, airport and other locations of interest</a> 
+<a href="https://www.google.com/maps/d/viewer?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0" target="_blank">View location of venues, hotels, airport and other locations of interest in online map.</a> 
 
 ```styledYaml
 images:
@@ -290,11 +290,13 @@ Its modern architecture and harmonious contrast between green vegetation and con
 
 ### The Nature
 
-Located in the heart of Brazil, Brasilia is surrounded by the Cerrado biome, which guards unbelievable natural beauties. The Cerrado is the world’s most biologically rich savanna, containing more than 10,000 species of plants, 45% of which are endemic. The Cerrado stretches across nearly 500 million acres of Brazil—an area nearly three times the size of Texas. The Cerrado also feeds three of the major water basins in South America: the Amazon, Paraguay and São Francisco Rivers.
+Located in the heart of Brazil, Brasilia is surrounded by the _Cerrado biome,_ which guards unbelievable natural beauties. The Cerrado is the world’s most biologically rich savanna, containing more than 10,000 species of plants, 45% of which are endemic. The Cerrado stretches across nearly 500 million acres of Brazil—an area nearly three times the size of Texas. The Cerrado also feeds three of the major water basins in South America: the Amazon, Paraguay and São Francisco Rivers.
 
 The Cerrado is home to 935 species of birds and nearly 300 mammals, including such endangered species as cerrado fox, giant anteater, jaguar and maned wolf. 
 
 The climate is dry, and the trees are twisted. During the day, it’s hot, but at night, the cold weather is pleasant. The Cerrado is without doubt one of the most beautiful Brazilian biomes. For those who like to be in contact with nature, the Chapada dos Veadeiros and the city of Pirenópolis are two must-see refuges near Brasília.
+
+The excursion on 28 October will visit the bioma Cerrado.
 
 ### Useful links
 + [Visit Brasil](http://www.visitbrasil.com/en/)
