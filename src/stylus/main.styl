@@ -28,3 +28,21 @@ h1, h2, section.block h1 {
 	color #444
 }
 @import "actions"
+
+.SiteHeader, .SiteNav {
+	a {
+		color inherit
+	}
+}
+
+.block-content a {
+	color #4796a1
+	text-decoration underline
+	border none
+	&:hover {
+		background none
+	}
+}
+.block-content>.toc+ul a:hover {
+	border none
+}
