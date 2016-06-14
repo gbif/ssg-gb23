@@ -30,7 +30,7 @@ templates:
 
 Note that all attendance is subject to [prior registration](http://gb23.gbif.org/en/registration/).  Unless otherwise stated, the events will take place at Complexo Brasil 21. 
 
-### Monday, 24 October 2016
+### Monday 24 October 2016
 
 **Nodes Steering Group meeting** 
 Time: 09:00-12:30
@@ -62,7 +62,7 @@ Venue: To be confirmed
 
 *All participants are invited to the Welcome dinner hosted by the Brazilian Delegation.*
 
-### Tuesday, 25 October 2016
+### Tuesday 25 October 2016
 
 **Governing Board meeting: Day 1**
 Time: 09:00-17:00
@@ -90,7 +90,7 @@ Room: To be confirmed
 
 *Post-GB meeting of the GBIF Executive Committee. Open only to committee members.* 
 
-### Thursday, 27 October 2016
+### Thursday 27 October 2016
 
 **SiBBr Symposium**
 Time: 09:00-17:00
@@ -106,7 +106,7 @@ Venue: CNPq Auditorium (National Council for Scientific and Technological Develo
 
 *Speakers and the complete agenda will be released soon, but for now the organizers would appreciate if the participants could indicate their intention to attend the SiBBr Sypmposium. The event will be held on Thursday, October, 27th, from 9 am to 5 pm at the main auditorium of the National Council for Scientific and Technological Development (CNPq).*
 
-### Friday, 28 October 2016
+### Friday 28 October 2016
 
 **Excursion**
 Time: All day event
