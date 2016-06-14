@@ -7,7 +7,9 @@ imageLink: http://sibbr.gov.br/
 ---
 # Registration
 
-Please click on the link below and select the events you are interested in attending.
+Before registering we kindly ask you to read the registration requirements for each event carefully and register for only those events that you are eligible to attend. The information can be found in the description for each event on the [Programme page](http://gb23.gbif.org/en/programme/).
+
+Please click on the link below to go to the GB23 registration page. You will be asked to identify yourself via the email address you are registered under in GBIF. If you are in doubt about which email address that is, please contact the GBIF Secretariat at [GB23@gbif.org](mailto:GB23@gbif.org).
 
 ```styledYaml
 templates:
@@ -18,6 +20,7 @@ templates:
     description: Go to GB23 registration page
 ```
 
-Please read the registration requirements for each event carefully and register for only those events that you are eligible to attend. The information can be found in the description for each event on the [Programme page](http://gb23.gbif.org/en/programme/).
 
-Your registration is not complete until you have received a confirmation email from the GBIF Secretariat, listing the events you have been registered for. 
+
+
+Please notice that your registration is not complete until you have received a confirmation email from the GBIF Secretariat, listing the events you have been registered for. 
