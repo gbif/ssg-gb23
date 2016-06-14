@@ -28,7 +28,7 @@ templates:
 
 ## Summary of events
 
-Note that all attendance is subject to prior registration.  Unless otherwise stated, the events will take place at Complexo Brasil 21. 
+Note that all attendance is subject to [prior registration](http://gb23.gbif.org/en/registration/).  Unless otherwise stated, the events will take place at Complexo Brasil 21. 
 
 ### Monday, 24 October 2016
 
