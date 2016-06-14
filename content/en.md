@@ -3,7 +3,7 @@ title: Home
 description: Welcome the 23rd meeting of the GBIF Governing Board 
 image: /images/worm.jpg
 imageTitle: Iagarta borboleta by José Sabino/SiBBr
-imageLink: http://www.sibbr.gov.brLink to owner
+imageLink: http://www.sibbr.gov.br
 ---
 
 # Welcome to Brazil 
