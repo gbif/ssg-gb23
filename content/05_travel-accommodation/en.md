@@ -2,8 +2,8 @@
 title: Travel and acccomodation
 description: Learn more about the event along with other tips and pointers for those travelling to Brasília.
 image: /images/turtle.jpg
-imageTitle:  
-imageLink: link to owner
+imageTitle: SiBBr/Divulgação
+imageLink: http://sibbr.gov.br/
 ---
 
 # Travel and accommodation
