@@ -17,7 +17,7 @@ Please note that your registration is not complete until you have received a con
 templates:
 - path: actions.html
   actions:
-  - title: GB23 Registration
+  - title: GB23 Registration page
     url: https://www.eventleaf.com/Attendee/Attendee/VerifyRegistrationEmail?eId=k5RQ9FuDk%2BETP6ZFjwNZsA%3D%3D&sId=3742f4f6-e74d-4c3e-80be-74c22021e528&isPreview=False
     description: Go to GB23 registration page
 ```
