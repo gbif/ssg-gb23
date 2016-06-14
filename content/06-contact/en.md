@@ -2,8 +2,8 @@
 title: Contact
 description: Learn how to direct questions to the organizers of GB23  
 image: /images/butterfly.jpg
-imageTitle: Name of image here.
-imageLink: Link to owner
+imageTitle: SiBBr/Divulgação
+imageLink: http://sibbr.gov.br/
 ---
 
 # Contact the organizers
