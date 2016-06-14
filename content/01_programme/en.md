@@ -15,12 +15,12 @@ imageLink: http://sibbr.gov.br/
 
 ## Printable PDF programme
 
-[Download a printable one-page overview of GB23](http://#)
+Download a printable one-page overview of GB23 by clicking [here](/raw/programme.pdf) or by clicking on the image below.
 
 ```styledYaml
 templates:
 - path: pdfpreview_en.html
-  pdf: "//api.gbif.org/v1/installation/location/IPT_INSTALLATION"
+  pdf: "/raw/programme.pdf"
   img: "/images/program.jpg"
   description: Download pdf
 ```
