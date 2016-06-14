@@ -3,7 +3,7 @@ title: Meeting documents
 description: Official meeting documents for GB23. 
 image: /images/anavilhanasl.jpg
 imageTitle: Anavilhanasl By José Sabino/SiBBr
-imageLink: Link to owner
+imageLink: http://sibbr.gov.br/
 ---
 
 # Meeting documents
