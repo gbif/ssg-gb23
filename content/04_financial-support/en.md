@@ -3,7 +3,7 @@ title: Financial support
 description: The GBIF Secretariat offers the possibility to apply for partial funding to attend the Governing Board meeting.
 image: /images/flor.jpg
 imageTitle: Campo de altitude em flor MG By José Sabino/SiBBr
-imageLink: Link to owner
+imageLink: http://sibbr.gov.br/
 ---
 
 # Financial support
@@ -12,14 +12,7 @@ __Deadline for applications: 29 July 2016__
 
 The GBIF Secretariat offers delegates the possibility of applying for partial funding to attend the Governing Board meeting in Brasilia on 25-26 October 2016.
 
-```styledYaml
-templates:
-- path: actions.html
-  actions:
-  - title: Financial support application form
-    url: /raw/GB23-partial-funding-application-form.docx
-    description: Download Word doc
-```
+You can find the link to the application form at the bottom of this page. Please read the guidelines carefully before submitting your application. 
 
 ## Guidelines
 
@@ -51,4 +44,14 @@ Delegations are asked to note that the Secretariat does not offer the support up
 Secretariat staff will inform applicants whether they can provide support beginning in early August. 
 
 Applications should be sent to the Secretariat at [GB23@gbif.org](mailto:GB23@gbif.org). Do not hesitate to contact us if you need further clarification. 
+
+```styledYaml
+templates:
+- path: actions.html
+  actions:
+  - title: Financial support application form
+    url: /raw/GB23-partial-funding-application-form.docx
+    description: Download Word doc
+```
+
 
