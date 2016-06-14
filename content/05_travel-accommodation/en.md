@@ -36,7 +36,7 @@ Brasil 21 Complex Center
 SHS Quadra 06 Bloco G
 Setor Hoteleiro Sul - Brasília
 Brazil
-[http://convencoesbrasil21.com.br](convencoesbrasil21.com.br)
+<a href="http://convencoesbrasil21.com.br" target="_blank">convencoesbrasil21.com.br</a>
 
 The following events will take place at the Brasil 21:
 * GBIF committee meetings - Budget, Science and Executive (24 October)
@@ -87,7 +87,7 @@ Booking: [email Brasil 21 Suites](mailto:suites@meliahotels.com.br) and refer to
 Setor Hoteleiro Sul Quadra 6 - Bl. B
 D e F Brasilia 
 Phone: +55 (61) 32184700
-[brasil21hoteis.com.br/home.php](http://brasil21hoteis.com.br)
+<a href="http://brasil21hoteis.com.br" target="_blank">brasil21hoteis.com.br/home.php</a>
 
 ### Other hotels in walking distance of the meeting venue
 
@@ -155,14 +155,14 @@ Phone: +55 (61) 30343355
 images:
 - title: Map
   url: /images/googlemap.jpg
-  link: reference-location
+  link: https://www.google.com/maps/d/viewer?mid=1S1KiJSTX8jWvbj32T7CvICPhi-0
 ```
 
 -------------
 
 ## Getting to Brasília
 
-[Brasília International Airport Juscelino Kubitschek (BSB)](http://www.bsb.aero/en/) is a major hub for travel within Brazil and services numerous flights every day. However, unlike other capital cities, only a few international airports offer non-stop flights travel directly to Brasília:
+<a href="http://www.bsb.aero/en/" target="_blank">Brasília International Airport Juscelino Kubitschek (BSB)</a> is a major hub for travel within Brazil and services numerous flights every day. However, unlike other capital cities, only a few international airports offer non-stop flights travel directly to Brasília:
 + Buenos Aires (Aerolineas Argentinas)
 + Lisbon (TAP Portugal)
 + Miami (LATAM and American Airlines)
@@ -200,7 +200,7 @@ It is also possible to take the Airport Bus Service to your hotel at Setor Hotel
 
 ## Travel requirements for entering Brazil
 
-GB23 participants are responsible for preparing their own travel documentation requirements for entering Brazil (this includes visas, vaccinations, etc). Please make sure to verify the requirements with [your nearest Brazilian Embassy or Brazilian Consulate](http://embassy.goabroad.com/embassies-of/brazil)
+GB23 participants are responsible for preparing their own travel documentation requirements for entering Brazil (this includes visas, vaccinations, etc). Please make sure to verify the requirements with <a href="http://embassy.goabroad.com/embassies-of/brazil" target="_blank">your nearest Brazilian Embassy or Brazilian Consulate</a>.
 
 ### Visa
 
@@ -208,7 +208,7 @@ Brazil maintains a fully reciprocal visa policy. Holders of passports for around
 
 Please be aware that Brazilian visa requirements are very stringent in many countries, and visas can take several weeks to obtain. If you need a visa, we recommend that you apply for your Brazilian visa as soon as possible. There is no option for visa upon arrival in Brazil. Visas MUST be arranged before travelling.
 
-[Official rules for each country regarding the Brazilian visa](http://sistemas.mre.gov.br/kitweb/datafiles/CgWashington/en-us/file/Entrance%20Visas%20in%20Brazil.pdf). 
+<a href="http://sistemas.mre.gov.br/kitweb/datafiles/CgWashington/en-us/file/Entrance%20Visas%20in%20Brazil.pdf" target="_blank">Official rules for each country regarding the Brazilian visa</a> 
 
 ### Insurance
 
@@ -220,7 +220,7 @@ Attendees are advised to make sure what insurance is requested for travel to Bra
 
 **A note on the Zika virus situation**
 
-The [Center for Disease Control and Prevention (CDC)](http://wwwnc.cdc.gov/travel/notices/alert/2016-summer-olympics-rio) of  the United States recently issued a travel warning for women who are pregnant (in any trimester), advising them to avoid risk and consider postponing travel to Brazil, as the virus has been linked to cases of microcephaly in newborns.
+The <a href="http://wwwnc.cdc.gov/travel/notices/alert/2016-summer-olympics-rio" target="_blank">Center for Disease Control and Prevention (CDC)</a> of  the United States recently issued a travel warning for women who are pregnant (in any trimester), advising them to avoid risk and consider postponing travel to Brazil, as the virus has been linked to cases of microcephaly in newborns.
 
 It is recommended that travellers pack and use insect repellant during their visits to Brazil.
 
@@ -242,7 +242,7 @@ images:
 
 ### Language
 
-Portuguese is the official language of Brazil. Many Brazilians in the larger cities—especially those you encounter working at airports, hotels, better restaurants, tour companies and travel agencies—speak at least some English. Both English and Spanish are taught in many Brazilian schools.
+Portuguese is the official language of Brazil. Many Brazilians in the larger cities — especially those you encounter working at airports, hotels, better restaurants, tour companies and travel agencies — speak at least some English. Both English and Spanish are taught in many Brazilian schools.
 
 ### Money procedures
 
@@ -305,6 +305,6 @@ The climate is dry, and the trees are twisted. During the day, it’s hot, but a
 The excursion on 28 October will visit the bioma Cerrado.
 
 ### Useful links
-+ [Visit Brasil](http://www.visitbrasil.com/en/)
-+ [Brasilia Convention & Visitors Bureau](http://brasiliaconvention.com.br/sitenovo/?lang=en)
-+ [Lonely Planet Guide](http://www.lonelyplanet.com/brazil/brasilia-goias)
++ <a href="http://www.visitbrasil.com/en/" target="_blank">Visit Brasil</a>
++ <a href="http://brasiliaconvention.com.br/sitenovo/?lang=en" target="_blank">Brasilia Convention & Visitors Bureau</a>
++ <a href="http://www.lonelyplanet.com/brazil/brasilia-goias" target="_blank">Lonely Planet Guide</a>
