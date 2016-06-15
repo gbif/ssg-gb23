@@ -222,6 +222,8 @@ Attendees are advised to make sure what insurance is requested for travel to Bra
 
 The <a href="http://wwwnc.cdc.gov/travel/notices/alert/2016-summer-olympics-rio" target="_blank">Center for Disease Control and Prevention (CDC)</a> of  the United States recently issued a travel warning for women who are pregnant (in any trimester), advising them to avoid risk and consider postponing travel to Brazil, as the virus has been linked to cases of microcephaly in newborns.
 
+Also please find the WHO Fact sheet on the Zika virus <a href="http://who.int/mediacentre/factsheets/zika/en/" target="_blank">here</a>. 
+
 It is recommended that travellers pack and use insect repellant during their visits to Brazil.
 
 ----------
