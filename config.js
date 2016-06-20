@@ -26,5 +26,5 @@ module.exports = {
         src: mapImg,
         dest: './dist/css/'
     },
-    googleAnalyticsId: 'this_tracking_code_wont_work'
+    googleAnalyticsId: 'UA-42057855-3'
 };
