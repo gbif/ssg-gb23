@@ -71,7 +71,7 @@ For your convenience, the local organizers recommend booking a room in one of th
 *Rate: 409,00 BRL*
 Breakfast and Internet included. 
 5% Service + 3,00 BRL Tourism Tax
-Booking: [email Meliã Brasil 21](mailto:melia.brasil21@meliahotels.com.br) and refer to booking code **SiBBr**
+Booking: [email Meliã Brasil 21](mailto:melia.brasil21@meliahotels.com.br) and refer to booking code **SiBBr** or book via their <a href="http://www.idiso.com/extranet/hm/gen/meetings.melia.com/en/The23rdmeetingoftheGBIFGoverningBoardandassociatedevents.html#" target="_blank">online booking service</a>
 
 **Brasil 21 Convention**
 *Rate: 309,00 BRL*
