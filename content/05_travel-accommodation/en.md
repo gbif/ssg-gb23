@@ -76,12 +76,12 @@ Booking: [email Meliã Brasil 21](mailto:melia.brasil21@meliahotels.com.br) and 
 **Brasil 21 Convention**
 *Rate: 309,00 BRL*
 Includes breakfast and Internet. Additional fees: 5% service + 3,00 BRL tourism tax.
-Booking: [email Brasil 21 Convention](mailto:convention@meliahotels.com.br) and refer to booking code **SiBBr**
+Booking: [email Brasil 21 Convention](mailto:convention@brasil21hoteis.com.br) and refer to booking code **SiBBr**
 
 **Brasil 21 Suites**
 *Rate: 309 BRL*
 Includes breakfast and Internet. Additional fees: 5% service + 3,00 BRL tourism tax.
-Booking: [email Brasil 21 Suites](mailto:suites@meliahotels.com.br) and refer to booking code **SiBBr**
+Booking: [email Brasil 21 Suites](mailto:suites@brasil21hoteis.com.br) and refer to booking code **SiBBr**
 
 **Address for all three Brasil 21 Hotels**
 Setor Hoteleiro Sul Quadra 6 - Bl. B
