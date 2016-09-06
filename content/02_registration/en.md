@@ -13,6 +13,8 @@ Please click on the button below to go to the GB23 registration page. You will b
 
 Please note that your registration is not complete until you have received a confirmation email from the GBIF Secretariat, listing the events you have been registered for. 
 
+**Registration closes on 14 October 2016.**
+
 ```styledYaml
 templates:
 - path: actions.html
