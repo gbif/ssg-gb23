@@ -261,8 +261,8 @@
     },
     "gbif-ssg": {
       "version": "1.0.0",
-      "from": "gbif/ssg#2c904c9687d4401046ac719d8783c1d5a612917f",
-      "resolved": "git://github.com/gbif/ssg.git#2c904c9687d4401046ac719d8783c1d5a612917f",
+      "from": "gbif/ssg#9acab328e5e28184303c9fa1355b64e51e95a006",
+      "resolved": "git://github.com/gbif/ssg.git#9acab328e5e28184303c9fa1355b64e51e95a006",
       "dependencies": {
         "abbrev": {
           "version": "1.0.7",
