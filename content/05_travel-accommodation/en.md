@@ -65,7 +65,7 @@ Brasília hotels are divided in two sectors, South (SHS) and North (SHN). They a
 ### Hotels at the Brasil 21 Complex Center
 The meeting venue, Brasil 21 Convention Center, is located at the SHS and the complex has three hotels towers: the superior Meliã Brasil 21 and the more affordable Brasil 21 Suites and Brasil 21 Convention.
 
-For your convenience, the local organizers recommend booking a room in one of these hotels. They have obtained a special rate for the GB23 attendees, and attendees can make reservations via email.
+For your convenience, the local organizers recommend booking a room in one of these hotels. They have obtained a special rate for the GB23 attendees, and attendees can make reservations via email. It is recommended also to look at the hotels website as they sometimes have promotions with rates that are lower than the obtained special rate. 
 
 **Meliã Brasil 21**
 *Rate: 409,00 BRL*
