@@ -20,3 +20,4 @@ Governance committee meetings will take place on 24 October. Also, the host kind
 
 Attendees may also sign up to conclude their visit on an excursion on 28 October to visit the bioma Cerrado (Brazilian savannah) where Brasilia is located.
 
+**Please note that the registration for the meeting will close on 14 October**
