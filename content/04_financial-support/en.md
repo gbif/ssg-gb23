@@ -8,7 +8,7 @@ imageLink: http://sibbr.gov.br/
 
 # Financial support
 
-__Deadline for applications: 29 July 2016__
+__Deadline for applications was 29 July 2016. It is therefore no longer possible to apply for partial funding__
 
 The GBIF Secretariat offers delegates the possibility of applying for partial funding to attend the Governing Board meeting in Brasilia on 25-26 October 2016.
 
