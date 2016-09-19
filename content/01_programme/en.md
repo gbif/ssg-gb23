@@ -108,13 +108,45 @@ Venue: CNPq Auditorium (National Council for Scientific and Technological Develo
 
 ### Friday 28 October 2016
 
-**Excursion**
-Time: All day event
-Venue: Cerrado biome area
+**Excursion - Chapada Imperial - Cerrado biome area**
 
-*SiBBr kindly offers to the GB23 attendees the possibility of a day trip to a [Cerrado biome area](http://gb23.gbif-uat.org/en/travel-accommodation/#the-nature) near by Brasilia. The excursion will be held on Friday, October 28th.* 
+*Departure time: 08:30 am from the Brasil 21 Convention Center*
+*Expected return time: 04:00 pm to the Brasil 21 Convention Center*
+*Distance: 50 km from the Brasil 21 Convention Center*
 
-*The local organizers are still setting up the trip itinerary.  More information will be released soon, but for now the organizers would appreciate if the participants could indicate if they intend to take part on the excursion.*
+*Excursion fee: BRL 200 (approx. USD 60)*
+*The excursion fee should be paid to the local organizers before the excursion. Please notice: Cash only.*
+*The fee includes transportation, access to the park, guided trails and lunch. Drinks are not included.*
 
-*The estimated cost will be around 200-300 BRL, which will include travel expenses, entry to the area, guide fees and lunch. The final price will be confirmed once the location of the trip is defined. The costs must be paid to the local organizers during the meeting, before the excursion.*
+*All trails are accompanied by trained guides and provide safety measures. The guides are environmental education experts on the typical Cerrado vegetation of the Central Brazilian Plateau. During the walks it is possible to see over seven vegetations of cerrado (phytophysiognomy): vereda, gallery forest, campo úmido, campo sujo, campo limpo, cerrado senso stricto, and campo rupestre. The tracks visit up to 30 waterfalls and 11 arborism trails forming an exciting circuit.*
 
+#### Trails
+
+*1. Short Trail:*
+*- Quiet 1 km walk in 1 hour and 30 minutes on an irregular surface of approximately 35 m.*
+*- Stops for bathing in crystalline wells, visiting 4 wells, 3 waterfalls, 2 observatories.*
+*- Level of difficulty: Easy*
+
+*2. Medium Trail:*
+*- 3 km walk in 3 hours and 30 minutes on an irregular surface of approximately 200 m.*
+*- Visits to 15 waterfalls with stops to bath.*
+*- Return from waterfalls on internal transport (“pau-de-arara”) with 3 km road to the headquarters.*
+*- Level of difficulty: Easy-moderate*
+
+*3. Long trail:*
+*- 4 km walk in 4 hours and 30 minutes on a 400 m irregular surface.*
+*- Visits to 30 waterfalls with stops to rest and bathing.*
+*- Level of difficulty: Moderate*
+
+
+#### Lunch
+
+*Lunch at Chapada Imperial is prepared daily with fresh ingredients, promoting cultural revival from the local cuisine.* 
+
+*Menu: Galinhada Goiana (chicken with saffron), Quibebe  (meat with cassava), cooked cassava, cooked pumpkin , white rice, meatless beans, spaghetti with tomato sauce, various salads.*
+
+*Drinks are not included.*
+
+#### What to bring
+
+*Light and comfortable clothing, proper walking non-slip shoes, light trousers or shorts, coat, hat, swimsuit, insect repellent and sunscreen. Also, bring a bag for carrying rubbish out of the park and a bottle of mineral water.*
