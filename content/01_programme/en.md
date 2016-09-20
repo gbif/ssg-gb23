@@ -104,7 +104,21 @@ Venue: CNPq Auditorium (National Council for Scientific and Technological Develo
 
 *As a host of the 23rd meeting (GB23) of the Governing Board of the GBIF, SiBBr will promote an open Symposium that will present the system innovations and the efforts and partnerships within the data mobilization process to establish a network of institutions whose data will be accessible both through GBIF and from the national biodiversity portal.*
 
-*Speakers and the complete agenda will be released soon, but for now the organizers would appreciate if the participants could indicate their intention to attend the SiBBr Sypmposium. The event will be held on Thursday, October, 27th, from 9 am to 5 pm at the main auditorium of the National Council for Scientific and Technological Development (CNPq).*
+*The organizers would appreciate if the participants could indicate their intention to attend the SiBBr Sypmposium when registering.*
+
+__Draft agenda__
+
+__1st Session - Presentations__
+09:00-09:30  Opening session
+09:30-10:15  GBIF - Empower a global network
+10:15-10:30  Coffee break
+10:30-11:15  SiBBr: Engaging stakeholder communities at national level
+11:15-12:00  SiBBr: Brazil Node of GBIF
+12:00-13:30  Lunch
+
+__2nd Session - Working Groups__
+13:30-15:30  Working groups: 'Deliver Relevant Data and Improve Data Quality', 'Address Data Gaps' and 'Support Biodiversity Assessments'
+15:30-17:00  Ending Session
 
 ### Friday 28 October 2016
 
@@ -120,7 +134,7 @@ Venue: CNPq Auditorium (National Council for Scientific and Technological Develo
 
 *All trails are accompanied by trained guides and provide safety measures. The guides are environmental education experts on the typical Cerrado vegetation of the Central Brazilian Plateau. During the walks it is possible to see over seven vegetations of cerrado (phytophysiognomy): vereda, gallery forest, campo úmido, campo sujo, campo limpo, cerrado senso stricto, and campo rupestre. The tracks visit up to 30 waterfalls and 11 arborism trails forming an exciting circuit.*
 
-#### Trails
+__Trails__
 
 *1. Short Trail:*
 *- Quiet 1 km walk in 1 hour and 30 minutes on an irregular surface of approximately 35 m.*
@@ -139,7 +153,7 @@ Venue: CNPq Auditorium (National Council for Scientific and Technological Develo
 *- Level of difficulty: Moderate*
 
 
-#### Lunch
+__Lunch__
 
 *Lunch at Chapada Imperial is prepared daily with fresh ingredients, promoting cultural revival from the local cuisine.* 
 
@@ -147,6 +161,6 @@ Venue: CNPq Auditorium (National Council for Scientific and Technological Develo
 
 *Drinks are not included.*
 
-#### What to bring
+__What to bring__
 
 *Light and comfortable clothing, proper walking non-slip shoes, light trousers or shorts, coat, hat, swimsuit, insect repellent and sunscreen. Also, bring a bag for carrying rubbish out of the park and a bottle of mineral water.*
