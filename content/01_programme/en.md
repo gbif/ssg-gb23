@@ -70,6 +70,12 @@ Room: Santa Cruz 1+2+3
 
 *Open to Governing Board delegates and invited observers.*
 
+```styledYaml
+images:
+- title: Governing Board meeting room: Santa Cruz
+  url: /images/GB_room.jpg
+  link: reference-location```
+
 ### Wednesday 26 October 2016
 
 **GBIF Public Symposium**
