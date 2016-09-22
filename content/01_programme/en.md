@@ -32,6 +32,13 @@ Note that all attendance is subject to [prior registration](http://gb23.gbif.org
 
 ### Monday 24 October 2016
 
+```styledYaml
+images:
+- title: Committee meeting room
+  url: /images/committee_rooms.jpg
+  link: reference-location
+```
+
 **Nodes Steering Group meeting** 
 Time: 09:00-12:30
 Roome: Sala Multiuso
@@ -63,6 +70,13 @@ Venue: To be confirmed
 *All participants are invited to the Welcome dinner hosted by the Brazilian Delegation.*
 
 ### Tuesday 25 October 2016
+
+```styledYaml
+images:
+- title: Governing Board meeting room
+  url: /images/gb_room.jpg
+  link: reference-location
+```
 
 **Governing Board meeting: Day 1**
 Time: 09:00-17:00
