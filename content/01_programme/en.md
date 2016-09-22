@@ -112,6 +112,8 @@ Venue: CNPq Auditorium (National Council for Scientific and Technological Develo
 
 *Open to the public.*
 
+*Please note that lunch is not included but can be bought at the conference venue.*
+
 *According to the Convention of Biological Diversity (CBD), Brazil is the most biologically diverse country in the world. It is classified at the top among the world’s 17 megadiverse countries. It contains two biodiversity hotspots (the Atlantic Forest and the Cerrado), six terrestrial biomes, including the Amazon, and three large marine ecosystems. At least 103,870 animal species and 43,020 plant species are currently known, comprising 70% of the world’s catalogued animal and plant species. It is estimated that Brazil hosts between 15-20% of the world’s biological diversity, with the greatest number of endemic species on a global scale. The knowledge about Brazil’s biodiversity is ever-expanding, with an average of 700 new animal species discovered each year.*
 
 *In this perspective to operate the national biodiversity free access database is not an easy task. The Brazilian Biodiversity Information System (SiBBr), which acts as the Global Biodiversity Information Facility (GBIF) national node, is a project implemented by the Ministry of Science, Technology and Innovation (MCTI) of Brazil, with technical support from the United Nations Environment Programme (UNEP) and funded by the Global Environmental Facility (GEF).*
@@ -178,3 +180,12 @@ __Lunch__
 __What to bring__
 
 *Light and comfortable clothing, proper walking non-slip shoes, light trousers or shorts, coat, hat, swimsuit, insect repellent and sunscreen. Also, bring a bag for carrying rubbish out of the park and a bottle of mineral water.*
+
+*The excursion will be managed by the tour operator Tekoa Brasil. If you have any questions about the excursion, or would like to make private tours, here are their contact details:*
+
+*Tekao Brasil*
+*Contact: Fernanda Carasilo*, <a href="mailto:fernanda@tekoabrasil.com">fernanda@tekoabrasil.com</a>*
+*Skype: tekoabrasil*
+*Phone: +55 48 9638-8382*
+
+
