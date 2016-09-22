@@ -64,7 +64,7 @@ Room: Mundo Novo 1
 *Open only to committee members.* 
 
 **Welcome dinner**
-Time: to be confirmed
+Time: 19:00 - 22:00
 Venue: To be confirmed
 
 *All participants are invited to the Welcome dinner hosted by the Brazilian Delegation.*
@@ -90,7 +90,7 @@ Room: Santa Cruz 1+2+3
 Time: 09:00-12:30
 Room: Santa Cruz 1+2+3
 
-*The 2016 Public Symposium. Those unable to attend the symposium in person will have access to all presentations soon after the event. The symposium is open to the public and press, but pre-registration is required.*  
+*The 2016 Public Symposium. Those unable to attend the symposium in person will have access to all presentations soon after the event. The symposium is open to the public and press.*  
 
 **Governing Board meeting: Day 2**
 Time: 13:30-17:00
