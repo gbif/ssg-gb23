@@ -163,12 +163,6 @@ __Trails__
 *- Return from waterfalls on internal transport (“pau-de-arara”) with 3 km road to the headquarters.*
 *- Level of difficulty: Easy-moderate*
 
-*3. Long trail:*
-*- 4 km walk in 4 hours and 30 minutes on a 400 m irregular surface.*
-*- Visits to 30 waterfalls with stops to rest and bathing.*
-*- Level of difficulty: Moderate*
-
-
 __Lunch__
 
 *Lunch at Chapada Imperial is prepared daily with fresh ingredients, promoting cultural revival from the local cuisine.* 
@@ -180,6 +174,10 @@ __Lunch__
 __What to bring__
 
 *Light and comfortable clothing, proper walking non-slip shoes, light trousers or shorts, coat, hat, swimsuit, insect repellent and sunscreen. Also, bring a bag for carrying rubbish out of the park and a bottle of mineral water.*
+
+*In case of heavy rain, the event may be changed.* 
+
+__Tour operator__
 
 *The excursion will be managed by the tour operator Tekoa Brasil. If you have any questions about the excursion, or would like to make private tours, here are their contact details:*
 
