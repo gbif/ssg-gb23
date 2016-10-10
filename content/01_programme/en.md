@@ -28,7 +28,13 @@ templates:
 
 ## Summary of events
 
-Note that all attendance is subject to [prior registration](http://gb23.gbif.org/en/registration/).  Unless otherwise stated, the events will take place at Complexo Brasil 21. 
+Note that all attendance is subject to [prior registration](http://gb23.gbif.org/en/registration/).  Unless otherwise stated, the events will take place at Complexo Brasil 21:
+
+Brasil 21 Complex Center
+SHS Quadra 06 Bloco G
+Setor Hoteleiro Sul - Brasília
+Brazil
+[convencoesbrasil21.com.br](http://convencoesbrasil21.com.br)
 
 ### Monday 24 October 2016
 
