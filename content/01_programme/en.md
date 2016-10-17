@@ -73,7 +73,7 @@ Room: Mundo Novo 1
 Time: 19:00 - 23:00
 Venue: [Restaurant BierFass](http://www.bierfass.com.br/)
 
-*All participants are invited to the Welcome cocktail hosted by the Brazilian Delegation.*
+*All participants are invited to the Welcome cocktail hosted by the Brazilian Delegation. For those interested, a van is available to take people to the restaurant. The van will leave from the main entrance of the Brasil 21 Convention Center at 18:30. Please note that there is limited space in the van so it will be on a first-come, first-served basis. Otherwise, it will be a short taxi ride from most of the hotels in the area. You just need to tell the driver to go to Pontão do Lago Sul (it is a popular restaurant area in Brasilia).*
 
 ### Tuesday 25 October 2016
 
