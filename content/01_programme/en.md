@@ -69,11 +69,11 @@ Room: Mundo Novo 1
 
 *Open only to committee members.* 
 
-**Welcome dinner**
+**Welcome cocktail**
 Time: 19:00 - 22:00
-Venue: To be confirmed
+Venue: [Restaurant BierFass](http://www.bierfass.com.br/)
 
-*All participants are invited to the Welcome dinner hosted by the Brazilian Delegation.*
+*All participants are invited to the Welcome cocktail hosted by the Brazilian Delegation.*
 
 ### Tuesday 25 October 2016
 
