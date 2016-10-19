@@ -73,7 +73,11 @@ Room: Mundo Novo 1
 Time: 19:00 - 23:00
 Venue: [Restaurant BierFass](http://www.bierfass.com.br/)
 
-*All participants are invited to the Welcome cocktail hosted by the Brazilian Delegation. For those interested, a van is available to take people to the restaurant. The van will leave from the main entrance of the Brasil 21 Convention Center at 18:30. Please note that there is limited space in the van so it will be on a first-come, first-served basis. Otherwise, it will be a short taxi ride from most of the hotels in the area. You just need to tell the driver to go to Pontão do Lago Sul (it is a popular restaurant area in Brasilia).*
+*All participants are invited to the Welcome cocktail hosted by the Brazilian Delegation.* 
+
+*For those interested, a mini bus is available to take people to the restaurant. The mini bus will leave from the main entrance of the Brasil 21 Convention Center at 18:30, approx. 19:00 and approx. 19:30. Please note that there is limited space in the bus (max 22 persons) so it will be on a first-come, first-served basis. Otherwise, it will be a short taxi ride from most of the hotels in the area. You just need to tell the driver to go to Pontão do Lago Sul (it is a popular restaurant area in Brasilia).*
+
+*The mini bus is also available to take people from the restaurant to the Brasil 21 Convention Center entrance. The bus leaves from the restaurant at 22:10, 22:40 and 23:10.*
 
 ### Tuesday 25 October 2016
 
@@ -120,6 +124,8 @@ Venue: CNPq Auditorium (National Council for Scientific and Technological Develo
 
 *Please note that lunch is not included but can be bought at the conference venue.*
 
+*For those interested, a bus is available to take people to the CNPq Auditorium. The bus will leave from the main entrance of the Brasil 21 Convention Center at 8:30. Please note that there is limited space in the bus (max 46 persons) so it will be on a first-come, first-served basis. The bus will return to the Brasil 21 Convention Center at 17:30.*
+
 *According to the Convention of Biological Diversity (CBD), Brazil is the most biologically diverse country in the world. It is classified at the top among the world’s 17 megadiverse countries. It contains two biodiversity hotspots (the Atlantic Forest and the Cerrado), six terrestrial biomes, including the Amazon, and three large marine ecosystems. At least 103,870 animal species and 43,020 plant species are currently known, comprising 70% of the world’s catalogued animal and plant species. It is estimated that Brazil hosts between 15-20% of the world’s biological diversity, with the greatest number of endemic species on a global scale. The knowledge about Brazil’s biodiversity is ever-expanding, with an average of 700 new animal species discovered each year.*
 
 *In this perspective to operate the national biodiversity free access database is not an easy task. The Brazilian Biodiversity Information System (SiBBr), which acts as the Global Biodiversity Information Facility (GBIF) national node, is a project implemented by the Ministry of Science, Technology and Innovation (MCTI) of Brazil, with technical support from the United Nations Environment Programme (UNEP) and funded by the Global Environmental Facility (GEF).*
@@ -146,8 +152,11 @@ __2nd Session - Working Groups__
 
 **Excursion - Chapada Imperial - Cerrado biome area**
 
-*Departure time: 08:30 am from the Brasil 21 Convention Center*
-*Expected return time: 04:00 pm to the Brasil 21 Convention Center*
+*08:00 - Departure time from the Brasil 21 Convention Center. Expected arrival at Chapada Imperial: 09:00.*
+*10:00 - Trail starts*
+*14:00 - Trail ends / lunch starts*
+*15:30 - Bus departs Chapada Imperial. Expected return time to Brasil 21 Convention Center: 16:30*
+
 *Distance: 50 km from the Brasil 21 Convention Center*
 
 *Excursion fee: BRL 200 (approx. USD 60)*
