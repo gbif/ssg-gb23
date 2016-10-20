@@ -46,8 +46,13 @@ The following events will take place at the Brasil 21:
 
 ### Other venues
 
-__Welcome dinner__ (24 October)
-Venue to be confirmed
+__Welcome cocktail__ (24 October)
+Restaurant Bierfass
+Pontão do Lago Sul
+76.820-749 - Lago Sul - Brasilia
+Brazil
+
+*See [http://gb23.gbif.org/en/programme/](http://gb23.gbif.org/en/programme/) for more information.*
 
 __SiBBr Symposium__ (27 October)
 CNPq Auditorium (National Council for Scientific and Technological Development - CNPq)
@@ -55,6 +60,8 @@ SHIS QI 1 Conjunto B
 Blocos A, B, C e D
 Lago Sul - Brasília
 Brazil
+
+*See [http://gb23.gbif.org/en/programme/](http://gb23.gbif.org/en/programme/) for more information.*
 
 ---------- 
 
