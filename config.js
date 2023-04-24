@@ -25,6 +25,5 @@ module.exports = {
     mapImg: {
         src: mapImg,
         dest: './dist/css/'
-    },
-    googleAnalyticsId: 'UA-42057855-3'
+    }
 };
